@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:7
+    container_name: ayush_mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+  # This service sets up PostgreSQL
+  postgres:
+    image: postgres:16
+    container_name: ayush_postgres_db
+    environment:
+      POSTGRES_DB: ayush_terminology_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: your_postgres_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+ # This service sets up Elasticsearch
+  elasticsearch:
+        image: docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+        container_name: ayush_elasticsearch
+        environment:
+          - discovery.type=single-node
+          - xpack.security.enabled=false
+          - "ES_JAVA_OPTS=-Xms1g -Xmx1g"
+        ports:
+          - "9200:9200"
+        volumes:
+          - es_data:/usr/share/elasticsearch/data
+          # ADD THIS LINE:
+          - ./src/data/synonym.txt:/usr/share/elasticsearch/config/analysis/synonym.txt
+
+volumes:
+  postgres_data:
+  es_data:
+  mongo_data:

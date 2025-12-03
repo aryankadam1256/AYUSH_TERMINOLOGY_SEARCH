@@ -1,0 +1,711 @@
+Code,Name,Synonyms,Problem
+,- Module II,,Skipped: Invalid or empty code
+,- - Traditional medicine disorders (TM2),,Skipped: Invalid or empty code
+,"- - - Head, brain, nerve and movement disorders (TM2)",,Skipped: Invalid or empty code
+,- - - - Headache disorders (TM2),,Skipped: Invalid or empty code
+SK00,- - - - - Cephalalgia disorder (TM2),"(a) ?ira???la, (b) Ma??aikkuttiyal, (c) S?ud?‘ (a) ?iroruk",
+SK01,- - - - - Migraine disorder (TM2),(a) ardh?vabhedaka? (c) Shaq?qa (b) Kap?la a?a?ku?am,
+SK0Y,- - - - - Other specified headache disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SK0Z,"- - - - - Headache disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Nervous system disorders (TM2),,Skipped: Invalid or empty code
+SK10,- - - - - Vertigo and giddiness disorder (TM2),(a) bhrama? (b) A?al ki?uki?uppu (c) Sadr-o-Duw?r,
+SK1Y,- - - - - Other specified nervous system disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SK1Z,"- - - - - Nervous system disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Paralysis disorders (TM2),,Skipped: Invalid or empty code
+SK20,- - - - - Facial palsy disorder (TM2),(a) ardita? (b) Uraka v?tam (c) Laqwa,
+SK21,- - - - - Paraplegia disorder (TM2),(a) pa?gu? (c) F?lij Asfal lameness (bilateral) / lower limb paralysis (TM2) (a) p??gulyam (c) F?lij At?r?f?,
+SK22,- - - - - Hemiplegia disorder (TM2),(a) pak??gh?ta (b) Pak?av?tam (c) F?lij (a) pak?avadha?,
+SK2Y,- - - - - Other specified paralysis disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SK2Z,"- - - - - Paralysis disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Paroxysmal disorders (TM2),,Skipped: Invalid or empty code
+SK30,- - - - - Seizure disorder (TM2),(a) ?k?epaka? (b) Va?ippu (c) Tashannuj,
+SK31,- - - - - Epilepsy disorder (TM2),(a) apasm?ra? (b) Va?i ppu (c) S?ar‘,
+SK3Y,- - - - - Other specified paroxysmal disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SK3Z,"- - - - - Paroxysmal disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SK50,- - - - Scalp affliction disorder (TM2),(a) kap?la-roga? (b) Kap?la t?rai,
+SK51,- - - - Cervicobrachial pain disorder (TM2),(a) vi?v?c? (b) Cirakkampa v?tam (c) Waja‘ al-‘Unuq ‘As?ab? (c) W?bila Cervicobrachial neuralgia (TM2),
+SK52,- - - - Tremor disorder (TM2),(a) kampa? (b) P??ikkampa v?tam (c) Ra‘sha Parkinsonism (TM2),
+SK53,- - - - Stammering disorder (TM2),(a) v?k-sa?ga? (b) Patita v?tam (c) Loknat-e zabAn (c) Luknat,
+SK54,- - - - Numbness disorder (TM2),(a) prasupti? (b) V?takar?a?am (c) Khadar,
+SK55,- - - - Weakness of thighs due to vata disorder (TM2),(a) ?rustambha? (b) ?rustampav?tam,
+SK5Y,"- - - - Other specified head, brain, nerve and movement disorders (TM2)",,Skipped: Invalid or missing entity ID in URL
+SK5Z,"- - - - Head, brain, nerve and movement disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,"- - - Eye, ear, nose, throat and neck disorders (TM2)",,Skipped: Invalid or empty code
+,- - - - Eye disorders (TM2),,Skipped: Invalid or empty code
+SK60,- - - - - Ocular hyperemia disorder (TM2),(a) sir?prahar?a? (b) Untu nerical (c) Takaddur ?abaqa al-Multa?ima (a) Sir?har?a?,
+SK61,- - - - - Prolapse iris disorder (TM2),(a) ajak?j?jta (c) Dhub?b? (a) ajak? (c) Ra’s al-Dhub?b? (b) P?cc?ntiram,
+SK62,- - - - - Blepharitis disorder (TM2),(a) vartm?vabandhaka? (b) Imai Ta?ippu (c) Sul?q (c) B?mn?,
+SK63,- - - - - Day blindness disorder (TM2),(a) pittavidagdhad???i (b) T?yaka? Kurutu (c) Jahar (a) div?ndhyam (c) Rozkor?,
+SK64,- - - - - Night blindness disorder (TM2),(a) r?try?ndhyam (b) M?laikka? (c) ‘Ash?’ (a) kaphavidagdhad???i (c) Shabkor?,
+SK65,- - - - - Cataract disorder (TM2),(a) k?ca? (b) Va?i k?cam (c) Nuz?l al-M?’,
+SK66,- - - - - Conjunctivitis disorder (TM2),"""(a) abhi?yanda? (b) A??a k?pam (c) Ramad"" (c) ?shob-i-Chashm",
+SK67,- - - - - Corneal disorder (TM2),(a) k???agataroga? (b) Karuvi?i n?yka (c) Amr??-i-?abaqa'-i-Qarniyya,
+SK68,- - - - - Tear sac swelling disorder (TM2),(a) p?y?lasa? (b) Kuval?aippa?uva? (c) Gharab Munfajir,
+SK69,- - - - - Eyelid cyst disorder (TM2),(a) kumbh?k? (b) Vira?ap Paru (c) Sal‘a al-Ajf?n,
+SK6A,- - - - - Dry eye disorder (TM2),(a) ?u?k?k?ip?ka? (c) Yubs al-Qarniyya (b) A?a??i,
+SK6B,- - - - - Ectropion disorder (TM2),(b) Imaiyuyarcci (c) Shatra Kh?rijiyya,
+SK6C,- - - - - Pterygium disorder (TM2),(a) prast?ri-arma (b) N?kap pa?alam (c) ?afara (c) N?kh?na,
+SK6D,- - - - - Lacrimation disorder (TM2),(a) sr?va? (b) N?r vari (c) Dam‘a,
+SK6E,- - - - - Trichiasis disorder (TM2),(a) pak?makopa? (b) Mu?a mayir (c) Sha‘r Munqalib (a) Pak?moparodha?,
+SK6F,- - - - - Eyelid tumour disorder (TM2),(a) vartm?rbuda? (b) Tacai ka?alai (c) Uqda al-‘Ayn (c) Uqda’-i-Jafn,
+SK6G,- - - - - Hard swelling of eyelid disorder (TM2),(a) ?u?k?r?a? (c) Tah?ajjur al-Ajf?n (b) Imai ta?ippu,
+SK6H,- - - - - Eyelid wart disorder (TM2),(a) vartmagata-rakt?r?a? (c) Tha’?l?l al-Ajf?n,
+SK6J,- - - - - Excessive blinking disorder (TM2),(a) nime?a? (c) ?arf al-Ajf?n (b) Avik?ya vira?am,
+SK6K,- - - - - Eyelid haematoma disorder (TM2),(a) ?y?vavartma (b) Irattakka?alai,
+SK6L,- - - - - Ptosis disorder (TM2),(a) k?cchronm?la? (b) Vi?i vali (c) Istirkh?’ al-Jafn,
+SK6M,- - - - - Sticky eyelids disorder (TM2),(a) ?li??a-vartma (c) Iltis??q al-Jafn (b) Kuva?ai nerital,
+SK6N,- - - - - Chalazion disorder (TM2),(a) laga?a? (c) Barada (b) Tacai ka?alai,
+SK6P,- - - - - Stye disorder (TM2),(a) añjanan?mik? (b) N?r pa?pa r?kam (c) Sha‘?ra,
+SK6Q,- - - - - Ptilosis disorder (TM2),(a) pak?ma??ta? (b) Iratta Ka?alai (c) Intith?r al-Ahd?b,
+SK6R,- - - - - Non-inflammatory swelling of eye disorder (TM2),(a) a?ophap?ka? (c) Intif?kh R?h?? (b) Uruvi?i pu?aittal,
+SK6S,- - - - - Periorbital polyp disorder (TM2),(a) netraja-ar?a? (b) Vira?ap paru,
+SK6T,- - - - - Phlyctenular nodule disorder (TM2),(a) sir?japi?ak? (c) Ramad Buth?r? (a) sir?pi?ak? (c) Wadaqa (b) Parumu?ai,
+SK6U,- - - - - Trachoma disorder (TM2),(a) pothak? (b) Kuva?aipa?uva? (c) Jarab al-‘Ayn,
+SK6V,- - - - - Corneal opacity disorder (TM2),(a) avra?a?ukra? (b) Vira?a Cukkira? (c) Bay?? al-‘Ayn,
+SK6W,- - - - - Panopthalmitis disorder (TM2),(a) sa?ophap?ka? (b) Mata?amant?ram (c) Ward?naj,
+SK6X,- - - - - Phthisis bulbi disorder (TM2),(a) hat?dhimantha? (c) Sill al-‘Ayn,
+SK7Y,- - - - - Other specified eye disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SK7Z,"- - - - - Eye disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Ear disorders (TM2),,Skipped: Invalid or empty code
+SK80,- - - - - Ear abscess disorder (TM2),(a) kar?a-vidradhi? (b) Cur??ita ceviva?i (c) Qur?? al-Udhun,
+SK81,- - - - - Deafness disorder (TM2),(a) b?dhiryam (c) Waqr (b) Kar?ika ca??i,
+SK82,- - - - - Otorrhoea disorder (TM2),(a) kar?a-sr?va? (b) C?? cevi e?ucci (c) Sayal?n al-Udhun,
+SK83,- - - - - Pruritus of ear disorder (TM2),(a) kar?a-ka??? (b) T?malk?tu karapp?? (c) ?ikka al-Udhun,
+SK84,- - - - - Dysacousia disorder (TM2),(a) uccai??ruti? (c) Harb al-Udhun,
+SK85,- - - - - Impacted cerumen disorder (TM2),(a) kar?a-g?thaka? (c) Wasakh al-Udhun,
+SK86,- - - - - Tinnitus disorder (TM2),(a) kar?a-n?da? (c) T?an?n-o-Daw? (a) a?abda?rava?am (b) Cevipa?uv?tam,
+SK87,- - - - - Otalgia disorder (TM2),(a) kar?a??la? (b) Kar??varttam n?kk??u (c) Waja‘ al-Udhun earache,
+SK88,- - - - - Otitis disorder (TM2),(a) kar?a-?opha? (b) Cevivi?ai Val?i (c) Iltih?b al-Udhun (a) kar?a?otha?,
+SK89,- - - - - Pustules of pinna disorder (TM2),(a) Parilehi (b) Kuruti cevi paru (c) Buth?r al-As?d?gh,
+SK8Y,- - - - - Other specified ear disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SK8Z,"- - - - - Ear disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Nose disorders (TM2),,Skipped: Invalid or empty code
+SK90,- - - - - Epistaxis disorder (TM2),(a) n?s?gata-raktapittam (c) Ru‘?f (b) Kuruti m?kka?aippu,
+SK91,- - - - - Anosmia disorder (TM2),(a) ghr??an??a? (b) V?ca?ai nilaiya?ital (c) Khasham,
+SK92,- - - - - Dry nose disorder (TM2),(a) pu?aka? (c) Jaf?f al-Anf (b) M?kku karapp??,
+SK93,- - - - - Atrophic rhinitis disorder (TM2),(a) n?s??o?a? (c) Iltih?b al-Anf D?um?r?,
+SK94,- - - - - Nasal polyp disorder (TM2),(a) n?s?r?a? (b) M?kku Ka?alai (c) Baw?s?r al-Anf (c) Urbiy?n al-Anf,
+SK95,- - - - - Rhinitis disorder (TM2),(a) prati?y?ya? (b) N?r m?kka?aippu (c) Iltih?b al-Anf (a) p?nasa?,
+SK96,- - - - - Coryza and catarrh disorder (TM2),(a) ghr??asr?va? (a) n?s?sr?va? (b) M?kku n?rpp?yccal (c) Nazla,
+SK97,- - - - - Nasal obstruction disorder (TM2),(a) n?s?n?ha? (b) Ka?uttu m?kka?aippu (c) Sudda-i-Khaysh?m (a) prat?n?ha? (c) soddeh-ye khayshoum,
+SK98,- - - - - Ozaena disorder (TM2),(a) p?tin?s? (b) Cir?y m?kka?aippu (c) Bakhr al-Anf (c) Natn al-Anf,
+SK99,- - - - - Sinusitis disorder (TM2),(b) M?kka?aippu n?y (c) Iltih?b-i-Taj?w?f al-Anf (a) ardha?vabhedaka,
+SK9A,- - - - - Adenoiditis disorder (TM2),(a) ka??ha??l?ka? (c) Iltih?b-i-Taj?w?f H?ulq?m? Anf?,
+SK9Y,- - - - - Other specified nose disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SK9Z,"- - - - - Nose disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Neck and throat disorders (TM2),,Skipped: Invalid or empty code
+SL00,- - - - - Throat tumour disorder (TM2),(b) To??ai pu??u (a) gal?rbuda?,
+SL01,- - - - - Retropharyngeal abscess disorder (TM2),(a) ?ataghn? (c) Khur?j H?alaq? Khalf?,
+SL02,- - - - - Hoarseness of voice disorder (TM2),(a) ka??hodhva?sa? (b) Kural kammal (c) Bu??a al-?awt (c) Bu???a al-?awt,
+SL03,- - - - - Indistinct- abnormal voice disorder (TM2),(a) svarabheda? (c) Khalal al-?awt,
+SL04,- - - - - Severe throat inflammation disorder (TM2),(a) rohi?? (b) Vara? ka?am (c) Khun?q Wab?’? (c) Waram al-H?anjara H??dd Ghish?’? Khun?q?,
+SL05,- - - - - Pharyngitis disorder (TM2),(a) bal?sa? (b) K?ca pittam (c) Waram-i-H?alq,
+SL06,- - - - - Tonsillitis disorder (TM2),(a) tu??iker? (c) Waram al-Lawzatayn (b) Ni?ak kural kammal,
+SL07,- - - - - Speech disorder (TM2),(a) m?katvam (c) Inqi??‘ al-?awt,
+SL08,- - - - - Lymphadenopathy in throat region disorder (TM2),(a) ga??am?l? (b) Ka??am?lai (c) Khan?z?r Scrofula,
+SL09,- - - - - Laryngitis disorder (TM2),(b) Ka??a pittam (c) Waram al-H?anjara,
+SL0Y,- - - - - Other specified neck and throat disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SL0Z,"- - - - - Neck and throat disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SL20,- - - - Excessive sneezing disorder (TM2),"""(a) k?avathu? (c) ’ U??s"" (c) otAs (b) Cil???uma pittam",
+SL21,- - - - Hypernasal speech disorder (TM2),(a) minmina? (c) Khun?n (b) N?cik?p??am,
+SL2Y,"- - - - Other specified eye, ear, nose, throat and neck disorders (TM2)",,Skipped: Invalid or missing entity ID in URL
+SL2Z,"- - - - Eye, ear, nose, throat and neck disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - Respiratory system disorders (TM2),,Skipped: Invalid or empty code
+SL40,- - - - Bronchial asthma disorder (TM2),"(a) tamaka?v?sa? (b) Iraippu n?y (c) D??q al-Nafas (b) iraippu irumal (c) Dama, (c) Nafas D?ayyiq, (c) rabw",
+SL41,- - - - Cough disorder (TM2),(a) k?sa? (b) Irumal n?y (c) Su‘?l-o-Surfa,
+SL42,- - - - Dyspnoea disorder (TM2),(a) ?v?sa? (b) Iraippu n?y (c) ’ Usr al-Tanaffus Breathlessness (TM2),
+SL4Y,- - - - Other specified respiratory system disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SL4Z,"- - - - Respiratory system disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,"- - - Heart, blood and circulatory disorders (TM2)",,Skipped: Invalid or empty code
+,- - - - Heart disorders (TM2),,Skipped: Invalid or empty code
+SL60,- - - - - Slow heart disorder (TM2),(a) h?nmoha? (c) But??’ al-Qalb,
+SL61,- - - - - Heart pain disorder (TM2),(a) h?droga? (b) Tamaraka n?y (c) Amr??-i-Qalb wa Dawr?n-i-Kh?n,
+SL62,- - - - - Palpitation disorder (TM2),(a) h?ddrava? (b) Tu?i pittam (c) Khafaq?n (b) Naadi Padappu,
+SL6Y,- - - - - Other specified heart disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SL6Z,"- - - - - Heart disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Circulatory disorders (TM2),,Skipped: Invalid or empty code
+SL70,- - - - - Varicose veins disorder (TM2),(a) sir?granthi? (b) N??a vip?ta pu?aippu (c) Daw?l? (b) Naalavibatham,
+SL71,- - - - - Varicose ulcer disorder (TM2),(a)sir?gatavra?a? (b) N??a vip?ta pu? (c) Qarh?a Daw?liyya (b) Naalavibatha viranam,
+SL72,- - - - - Thickened arteries disorder (TM2),(a) dhaman?praticaya? (b) Vacu v?tam (c) Tasaddud Shah?m? Kils?,
+SL7Y,- - - - - Other specified circulatory disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SL7Z,"- - - - - Circulatory disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Blood related disorders (TM2),,Skipped: Invalid or empty code
+SL80,- - - - - Anaemia disorder (TM2),(a) p???uroga? (b) Ve?uppu n?y (c) Faqr al-Dam (b) Veluppu Noi,
+SL81,- - - - - Bleeding disorder disorder (TM2),(a) raktapittam (b) Iratta pittam (c) Qatma,
+SL8Y,- - - - - Other specified blood related disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SL8Z,"- - - - - Blood related disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SM00,- - - - Lymphadenopathy disorder (TM2),(a) apac? (b) Akku? nilapp?ca?i ka??i,
+SM01,- - - - Elephantiasis disorder (TM2),(a) ?l?pada? (b) Y??aikk?l (c) D?’ al-F?l Filariasis (TM2),
+SM0Y,"- - - - Other specified heart, blood and circulatory disorders (TM2)",,Skipped: Invalid or missing entity ID in URL
+SM0Z,"- - - - Heart, blood and circulatory disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - Gastro-intestinal disorders (TM2),,Skipped: Invalid or empty code
+,- - - - Oral cavity disorders (TM2),,Skipped: Invalid or empty code
+SM10,- - - - - Stomatitis disorder (TM2),(a) ?syavip?ka? (b) Akkaram (c) Qul?‘ (a) mukhp?ka? (c) qorheh-ye dahAn,
+SM11,- - - - - Dental abscess disorder (TM2),(a) dantavidradhi? (b) Palla?i Ka??i (c) F?r?las,
+SM12,- - - - - Bruxism disorder (TM2),(a) dantagh?ta? (c) S?ar?r al-Asn?n,
+SM13,- - - - - Pyorrhoea disorder (TM2),(a) dantave??aka? (c) Taqayyuh? al-Litha (b) Pall???am,
+SM14,- - - - - Gingivitis disorder (TM2),(a) upaku?a? (b) Palla?i V?kkam (c) Waram al-Litha,
+SM15,- - - - - Halitosis disorder (TM2),(a) p?timukhat? (b) N?????am (c) Bakhr al-Fam,
+SM16,- - - - - Sialorrhoea disorder (TM2),(a) mukhasr?va? (b) Aiyam mikutiyu?a? v?yu c?rnt?l u???kum ku?iku?a?ka?. (c) Kathra al-Lu‘?b (a) praseka (c) sayalAn-e ab dahAn,
+SM17,- - - - - Palatitis disorder (TM2),(a) adhru?a? (c) Waram al-H?anak (b) A???kkutt??u t?pitam,
+SM18,- - - - - Uvulitis disorder (TM2),(a) gala?u??ik? (c) Waram-i-Lah?t (b) U? n?kku va?arcci,
+SM19,- - - - - Ludwig’s angina disorder (TM2),(a) galagraha? (c) Khun?q,
+SM1A,- - - - - Odontalgia disorder (TM2),Tooth ache (a) dantabheda? (a) d?lana? (b) Pal kuttal (c) Waja‘ al-Asn?n,
+SM1B,- - - - - Bleeding gum disorder (TM2),(a) paridara? (b) Palla?i Kotippu (c) Litha D?miya,
+SM1C,- - - - - Ranula disorder (TM2),(a) upajihvik? (c) D?ifda‘ al-Lis?n (b) N?kkara?ai,
+SM1D,- - - - - Parotitis disorder (TM2),(a) p????agardabha? (c) Waram As?l al-Udhun Mumps (TM2),
+SM1E,- - - - - Dental caries disorder (TM2),(a) k?midantaka? (b) Pal pu?u (c) Ta’akkul al-Asn?n,
+SM1F,- - - - - Dental plaque disorder (TM2),(a) danta?arkar? (b) Palla?i mañca??tal (c) D?’ al-H?afr (c) H?afr al-Asn?n wa’l Qalh?,
+SM1G,- - - - - Discolouration of teeth disorder (TM2),(a) ?y?vadantaka? (b) Pal karuttal (c) Taghayyur Lawn al-Asn?n,
+SM1H,- - - - - Odontoseisis disorder (TM2),(a) dantac?la? (b) Pall???am (c) Tah?arruk al-Asn?n,
+SM1J,- - - - - Sensitive teeth disorder (TM2),(a) dantahar?a? (b) Pal k?ccam (c) Dhah?b M?’ al-Asn?n,
+SM1K,- - - - - Lip chapping and bleeding disorder (TM2),(a) pittaja-???haprak?pa? (b) Ve?ippu uta?u n?y (c) Taqashshur al-Shafatayn (b) Va?iyuta?u n?y,
+SM1L,- - - - - Itchy swollen lip diorder (TM2),(a) kaphaja-???haprak?pa? (b) Mi?umi?uppu uta?u n?y,
+SM1M,- - - - - Dry chapped lip disorder (TM2),(c) Shaq?q al-Shafatayn (c) jefAf-e lab (c) taqashor-e lab (a) v?taja-o??haprakopa? (b) Val?i Uta?uno?y (c) Tashaqquq al-Shafatayn,
+SM1N,- - - - - Xerostomia disorder (TM2),(a) mukha?o?a? (b) N?li Akkaram (c) Jaf?f-i-Lis?n,
+SM1P,- - - - - Ageusia disorder (TM2),(a) arasajñat? (b) Cuvaiyi?mai n?y (c) But?l?n al-Dhawq,
+SM1Y,- - - - - Other specified oral cavity disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SM1Z,"- - - - - Oral cavity disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Abdominal cavity disorders (TM2),,Skipped: Invalid or empty code
+SM30,- - - - - Haematemesis disorder (TM2),(b) Kuruti v?nti (c) Qay’ al-Dam,
+SM31,- - - - - Abdominal distension disorder (TM2),(a) ?dhm?nam (b) Mantam (c) Nafkh al-Mi‘da,
+SM32,- - - - - Ascites disorder (TM2),"(a) udara (b) Peruvayi?u n?y (c) Istisq?’ Ziqq? (a) udararoga?, (a) jalodara?",
+SM33,- - - - - Abdominal pain disorder (TM2),(a) ??la? (b) Vayi??u Va?i (c) Waja‘ al-Mi‘da (b) C?lai n?y,
+SM34,- - - - - Constipation disorder (TM2),(a) vibandha (b) Malakka??u (c) Qabd? (b) Malakka??u (c) I‘tiq?l al-Bat?n / H?us?r / Ih?tib?s al-Bat?n / Ih?tib?s al-T?ab?‘a / I‘tiq?l al-T?ab?‘a / Ims?k al-Bat?n (a) malavibandha,
+SM35,- - - - - Volvulus disorder (TM2),(a) ud?varta? (b) Calastampa v?tam (c) Q?lanj Iltiw?’?,
+SM36,- - - - - Malabsorption disorder (TM2),(a) graha?? (b) Ni?ak ka?iccal (c) Dharab-o-Khilfa Sprue (TM2),
+SM37,- - - - - Diarrhoea disorder (TM2),(a) atis?ra? (b) Peru? ka?iccal (c) Ish?l,
+SM38,- - - - - Dysentery disorder (TM2),(a) prav?hik? (b) Ni?ak ka?iccal (c) Zah??r,
+SM39,- - - - - Dyspepsia disorder (TM2),(a) amlapittam (b) Cavvira?ka v?tam (c) Fas?d al-Had?m (c) S?’ al-Had?m,
+SM3A,- - - - - Hyperacidity disorder (TM2),(b) Va??i pittam (c) H?urqa al-Mi‘da (c) laz'e me'deh,
+SM3B,- - - - - Indigestion disorder (TM2),(a) aj?r?am (b) Ceriy?mai (c) D?u‘f al-Had?m,
+SM3C,- - - - - Food stasis indigestion disorder (TM2),(a) alasaka (b) M?nta n?y (c) Tukhma Food stasis (TM2),
+SM3D,- - - - - Duodenal ulcer disorder (TM2),(a) pari??ma??la? (b) Va?i ku?mam,
+SM3E,- - - - - Gastric ulcer disorder (TM2),(a) annadrava??la? (b) Eri ku?mam (c) Qarh?a wa Buth?r al-Mi‘da (c) qrwh me'deh,
+SM3F,- - - - - Gastritis disorder (TM2),(a) v?tapaittika??la? (b) A?al ku?mam (c) Waram al-Mi‘da,
+SM3G,- - - - - Hernia disorder (TM2),(a) antra-v?ddhi? (b) Ku?al v?tam (c) Fatq,
+SM3H,- - - - - Nausea disorder (TM2),(a) utkle?a? (c) Ghathay?n (b) Manta aiya n?y,
+SM3J,- - - - - Retching disorder (TM2),(a) v?taja-chardi? (b) Val?i V?nti (c) Tahawwu‘,
+SM3K,- - - - - Abdominal lumps disorder (TM2),(a) gulma? (b) Ku?mam,
+SM3L,- - - - - Vomiting disorder (TM2),,"Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+SM3Y,- - - - - Other specified abdominal cavity disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SM3Z,"- - - - - Abdominal cavity disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Liver and Spleen disorders (TM2),,Skipped: Invalid or empty code
+SM40,- - - - - Liver abscess disorder (TM2),(a) yakr?jjavidradhi? (b) Kall?ral Ka??i (c) Dubayla al-Kabid (c) Dubayla-i-Jigar,
+SM41,- - - - - Jaundice disorder (TM2),(a) k?mal? (b) Mañca? n?y (c) Yarq?n As?far,
+SM42,- - - - - Hepatomegaly disorder (TM2),(a) yak?dd?lyudara? (b) Val?i Kall?ral No?y (c) ‘Iz?am al-Kabid,
+SM43,- - - - - Hepatitis disorder (TM2),(c) Waram al-Kabid (b) A?c?pakav?tam,
+SM44,- - - - - Splenomegaly disorder (TM2),(a) pl?havruddhi (b) Mukku??a Ma???ral No?y (c) Iz?am al-T?ih??l (a) pl?haroga? (b) Pil?kavirutti,
+SM4Y,- - - - - Other specified liver and Spleen disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SM4Z,"- - - - - Liver and Spleen disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Anorectal disorders (TM2),,Skipped: Invalid or empty code
+SM50,- - - - - Proctalgia disorder (TM2),(a) gud?rti? (b) P?cuv?tam,
+SM51,- - - - - Anal fissure disorder (TM2),(a) parikartik? (c) Shuq?q al-Maq‘ad (b) Ka?almu?ai n?y,
+SM52,- - - - - Fistula in ano disorder (TM2),(a) bhagandara? (b) Pavuttiram (c) Naw?s??r N?fidha,
+SM53,- - - - - Haemorrhoids disorder (TM2),(a) ar?a? (b) Eruv?y mu?ai n?y (c) Baw?s?r Piles (TM2),
+SM54,- - - - - Proctitis disorder (TM2),(a) gudap?ka? (c) Waram al-Maq‘ad (a) gudaku??anam (b) A?al mu?ai,
+SM55,- - - - - Rectal prolapse disorder (TM2),(a) gudabhra??a? (b) Vir?ki A?itta??al (c) Khur?j al-Maq‘ad (c) Khur?j al-Mabraz,
+SM56,- - - - - Anal abscess disorder (TM2),(a) gudajavidradhi (b) Eruv?ykka??i (c) Naw?s??r Ghayr N?fidha,
+SM5Y,- - - - - Other specified anorectal disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SM5Z,"- - - - - Anorectal disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SM70,- - - - Flank pain disorder (TM2),(a) p?r?varuja? (b) ?ma c?lai (c) Sh?s?a (a) p?r?va??la?,
+SM71,- - - - Anorexia disorder (TM2),(a) arocaka? (c) But?l?n al-Ishtih?’ (c) D?u‘f al-Ishtih?’ (b) Ma?a cuvaiyi?mai n?y,
+SM72,- - - - Bowel inflammation disorder (TM2),(a) raktaja-prav?hik? (b) Mirut v?tam (c) Sah?j wa Qur?h? al-Am‘?’,
+SM73,- - - - Infantile tenesmus disorder (TM2),(a) k??r?lasaka? (b) M?ntam (c) Maghs? al-At?f?l,
+SM74,- - - - Hiccough disorder (TM2),(a) hikk? (b) Vikkal n?y (c) Fuw?q,
+SM75,- - - - Dynamic intestinal obstruction disorder (TM2),"(a) ?rdhvav?ta? (b) Ku?a?pi?ippu n?y, ?n?ka n?y (c) ?l?’?s",
+SM76,- - - - Severe vomiting and diarrhoea disorder (TM2),(a) vis?cik? (b) ??i n?y (c) Hayd?a,
+SM7Y,- - - - Other specified gastro-intestinal disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SM7Z,"- - - - Gastro-intestinal disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - Urinary and reproductive system disorders (TM2),,Skipped: Invalid or empty code
+,- - - - Urinary system disorders (TM2),,Skipped: Invalid or empty code
+SM80,- - - - - Renal abscess disorder (TM2),(a) vr?kkajavidradhi? (b) M?ttiran?l?akka??i (c) Dubayla al-Kulya,
+SM81,- - - - - Retention of urine disorder (TM2),(a) m?tranigraha? (b) N?rkka??u (c) Ih?tib?s al-Bawl,
+SM82,- - - - - Insufficiency of the urinary bladder disorder (TM2),(a) m?tr?gh?ta? (b) N?ra?aippu (c) D?u‘f al-Math?na,
+SM83,- - - - - Renal colic disorder (TM2),(a) t?n? (b) A?al n?rccurukku (c) Q?lanj Kulw?,
+SM84,- - - - - Nephritis disorder (TM2),(b) N?rkka??u (c) Waram al-Kulya,
+SM85,- - - - - Cystitis disorder (TM2),(b) Aiya N?rccurukku (c) Waram al-Math?na,
+SM86,- - - - - Wound of the urinary bladder disorder (TM2),(b) Ci?un?r p?taiyi? k?ya?ka? (c) Qur?h? al-Math?na,
+SM87,- - - - - Dysuria disorder (TM2),(a) m?trak?cchram (b) N?rccurukku (c) ‘Usr al-Bawl,
+SM88,- - - - - Dribbling of urine disorder (TM2),(a) v?taku??alik? (b) Co??u n?r (c) Taqt??r al-Bawl,
+SM89,- - - - - Thick urine disorder (TM2),(a) m?traukas?da? (c) Bawl Ghal??,
+SM8A,- - - - - Haematuria disorder (TM2),(a) lohitameha? (b) A?al N?rccurukku (c) Bawl al-Dam,
+SM8B,- - - - - Urinary incontinence disorder (TM2),(a) v?tabasti? (b) Ci?un?ri? m??utalka? (c) Salas al-Bawl,
+SM8C,- - - - - Urinary stone disorder (TM2),(a) a?mar? (b) Kalla?aippu (c) H?as?? wa Raml al-Kulya,
+SM8D,- - - - - Polyuria disorder (TM2),(a) prameha? (b) N?ri?aipperukkal n?yka? (c) Kathra al-Bawl,
+SM8E,- - - - - Oliguria disorder (TM2),(a) m?trasa?k?aya? Anuria (TM2) (c) Qilla al-Bawl,
+SM8Y,- - - - - Other specified urinary system disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SM8Z,"- - - - - Urinary system disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Female Reproductive System disorders (TM2),,Skipped: Invalid or empty code
+SM90,- - - - - Amenorrhoea disorder (TM2),(a) arajask? (b) Kukara?a mey c?takata?ai (c) Ih?tib?s al-Tamth (a) rajon??a? / nas?t?a?rtava / ana?rtava,
+SM91,- - - - - Endocervicitis disorder (TM2),(a) kar?in? (b) Karuppaik ka?untu u?pu?a a?a?ci,
+SM92,- - - - - Bartholin's cyst disorder (TM2),(a) yonikanda? (b) Surappikallutaiya Athaippu,
+SM93,- - - - - Leucorrhoea disorder (TM2),(a) ?vetapradara? (b) Ve??ai n?y (c) Sayal?n al-Rah?im,
+SM94,- - - - - Female infertility disorder (TM2),(a) vandhy? (b) Pe? mala?u (c) ‘Uqr,
+SM95,- - - - - Vaginitis disorder (TM2),(a) pariplut? (b) Y??i t?pitam,
+SM96,- - - - - Dysmenorrhoea disorder (TM2),(a) ud?vartin? (b) C?taka Va?i (c) ‘Usr al-Tamth (a) Kashtartawa,
+SM97,- - - - - Hypomenorrhoea disorder (TM2),(a) lohitak?ay? (c) Qillat-i-Tamth,
+SM98,- - - - - Dysfunctional uterine bleeding disorder (TM2),(a) as?gdara? (b) Ac?t?ra?a perump??u (c) Kathrat-i-H?ayd? (c) kethrat-e tamth (a) Raktapradar,
+SM99,- - - - - Uterine polyps disorder (TM2),(a) yoni-ar?a? (b) Karuppai k?mpu ka?alai (c) Baw?s?r al-Rah?im,
+SM9A,- - - - - Uterine prolapse disorder (TM2),(a) mah?yoni? (b) Karuppai a?itta??al (c) Inzil?q al-Rah?im (a) viv?t? (c) Nut?’ al-Ra?im,
+SM9B,- - - - - Vaginismus disorder (TM2),(a) viplut? (b) C?lai Yo??i,
+SM9C,- - - - - Metritis disorder (TM2),(a) makkalla? (b) Karuppai u?kavaca t?pitam (c) Waram al-Rah?im,
+SM9Y,- - - - - Other specified female Reproductive System disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SM9Z,"- - - - - Female Reproductive System disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Male Reproductive System disorders (TM2),,Skipped: Invalid or empty code
+SN00,- - - - - Balanitis disorder (TM2),(a) me?hrap?ka? (b) Aiya Kalla?aippu (c) Waram al-Qad??b inflammation of the penis,
+SN01,- - - - - Hydrocele disorder (TM2),(a) v?ddhi? (b) Tantira ve??i v?tam (c) Q?la M?’iyya,
+SN02,- - - - - Erectile dysfunction disorder (TM2),(a) klaibyam (b) V?riyami?mai (c) Istirkh?’ al-Qad??b,
+SN03,- - - - - Oligospermia disorder (TM2),(a) ?ukrak?aya? (b) ?? mala?u (c) Qilla al-Man?,
+SN04,- - - - - Mustard- size boils on penis disorder (TM2),(a) sar?apik? (b) Ka?uku koppu?am,
+SN05,- - - - - Orchitis disorder (TM2),(b) P?jastampa v?tam (c) Waram al-Khus?yatayn (c) Waram al- Unthayayn,
+SN06,- - - - - Penile growth disorder (TM2),(a) me?hraja-ar?a? (b) T?maraikk?ytta?ippu (c) Tha’?l?l al-Dhakar,
+SN07,- - - - - Priapism disorder (TM2),(a) ?ephastambha? (c) Far?sm?s (c) Ifr?t? al-Nu‘?z? (b) Timirkku?ippu?,
+SN08,- - - - - Prostatic enlargement disorder (TM2),(a) v?t???h?l? (c) Iz?am-i-Ghudda'-i-Madh? Benign enlargement of the prostate (TM2) (b) Cataiya?aippu,
+SN09,- - - - - Spermatorrhoea disorder (TM2),(a) m?tra?ukra? (b) Ve???r (c) Jaray?n (b) tava?a n?r,
+SN0A,- - - - - Phimosis disorder (TM2),(a) niruddhapraka?a? (b) T?l ta?aippu?,
+SN0Y,- - - - - Other specified male Reproductive System disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SN0Z,"- - - - - Male Reproductive System disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Pregnancy and childbirth related disorders (TM2),,Skipped: Invalid or empty code
+SN10,- - - - - Decreased breastmilk disorder (TM2),(a) stanyak?aya? (c) Qilla al-Laban,
+SN11,- - - - - Vitiated breast milk disorder (TM2),(a) stanyadu??i? (b) P?l etire?uttal,
+SN12,- - - - - Recurrent pregnancy loss disorder (TM2),(a) j?taghn? (b) Ku?a avat??akam (c) Isq?t? ‘?d?,
+SN1Y,- - - - - Other specified pregnancy and childbirth related disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SN1Z,"- - - - - Pregnancy and childbirth related disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SN30,- - - - Gonorrhoea disorder (TM2),"(a) upada??a? (b) Korukku n?y (c) Soz?k (c) Sayal?n Zuhr?, (c) H?urqa, (c) Al-Nak?l, (c) ‘Uq?ba",
+SN31,- - - - Syphillis disorder (TM2),"(a) phira?garoga (b) Ve??ai n?y (c) ?tshak (c) ?bla Farang, (c) D?arma, (c) S?‘?r, (c) Al-Afranj? (c) B?d Farang, (c) Al-Khaj?l, (c) Qarh?a S?ulba, (c) Koft",
+SN3Y,- - - - Other specified urinary and reproductive system disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SN3Z,"- - - - Urinary and reproductive system disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,"- - - Skin, nail and hair disorders (TM2)",,Skipped: Invalid or empty code
+,- - - - Skin disorders (TM2),,Skipped: Invalid or empty code
+SN40,- - - - - Dermatitis disorder (TM2),(a) rakas? (b) Karapp?? pittam,
+SN41,- - - - - Discoloration of body disorder (TM2),(a) k?r??yam (b) Valli Nhooyaallar Utal Nhirram (c) Fas?d al-Lawn,
+SN42,- - - - - Dryness of skin disorder (TM2),(a) rauk?yam (b) T?l va?a?ci (c) Shuq?q al-At?r?f wa’l Wajh,
+SN43,- - - - - Eczema disorder (TM2),"(a) vicarcik? (b) V?tak karapp?? (c) N?r F?rs? (c) Ch?jan, (c) Ukauta",
+SN44,- - - - - Foul body smelling disorder (TM2),(a) a?ga-durgandha? (c) ‘Araq Muntin,
+SN45,- - - - - Excess of sweat disorder (TM2),(a) svedav?ddhi? (b) Ativiyarvai (c) Kathra al-‘Araq (a) atisveda? (c) Ifr?? al-‘Araq,
+SN46,- - - - - Scabies disorder (TM2),(a) p?m? (kacch?) (b) Co?i cira?ku (c) Jarab,
+SN47,- - - - - Dracunculosis disorder (TM2),(a) sn?yukaroga? (c) ‘Irq Mad?n? (b) Kurutippu?,
+SN48,- - - - - Intertrigo disorder (TM2),(a) alasa? (c) Mazah? (b) C???up pu?,
+SN49,- - - - - Integumentary disorder (TM2),(a) dh?tugataku??ha? (b) Cira?kup perun?y (c) Judh?m (b) P?ma ku??am (c) Al-‘Illa al-Kubr?,
+SN4A,- - - - - Psoriasis disorder (TM2),(a) sidhma? (b) K???ñcakappa?ai (c) Taqashshur al-Jild,
+SN4B,- - - - - Ichthyosis disorder (TM2),(a) ekaku??ha? (c) Q?b? Mutaqashshir (b) Va?a?cik karapp??,
+SN4C,- - - - - Scaling of scalp and forehead skin disorder (TM2),(a) ke?abh?misphu?anam (c) Qush?r al-Jabha (b) Ve? karapp??,
+SN4D,- - - - - Vitiligo disorder (TM2),Leucoderma (TM2) (a) ?vitra? (b) Ve?pu??i (c) Baras?,
+SN4E,- - - - - Lentigo disorder (TM2),,"Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+SN4F,- - - - - Birth mark - blackish red disorder (TM2),(a) jatuma?i? (c) Namash,
+SN4G,- - - - - Melasma disorder (TM2),(a) vya?ga? (c) Kalaf (b) Kap?la karu?ku??am,
+SN4H,- - - - - Mole disorder (TM2),(a) ma?aka? (b) Maccam (c) Kh?l?n,
+SN4J,- - - - - Black red skin lesion disorder (TM2),(a) k?ka?aka? (b) Karu perun?y,
+SN4K,- - - - - Urticaria disorder (TM2),(a) ??tapittam (b) K???kka?i (c) Shar?,
+SN4L,- - - - - Wheal disorder (TM2),(a) ko?ha? (b) T?lta?ippu (c) Shar? Damaw?,
+SN4M,- - - - - Boil disorder (TM2),(b) Koppu?am (c) Dummal,
+SN4N,- - - - - Prickly heat disorder (TM2),(a) r?jik? (b) V?rkkuru (c) Buth?r Shawkiyya (c) H?as?af,
+SN4P,- - - - - Pemphigus vulgaris disorder (TM2),(a) vispho?aka? (b) Koppu?a perun?y (c) Naff?t??t,
+SN4Q,- - - - - Scar marks disorder (TM2),(b) Ta?umpu (c) ?th?r al-Qur?h? (c) athar-e jeld,
+SN4R,- - - - - Roughness of skin disorder (TM2),(a) p?ru?yam (b) V?kkam (c) Taqashshuf al-Jild (b) ta?ippu,
+SN4S,- - - - - Verruca disorder (TM2),(a) carmak?la? (b) Maru? (c) Tha’?l?l Warts (TM2),
+SN4T,- - - - - Herpes disorder (TM2),(a) kak??? (b) Akki (c) Namla (c) S?‘iya,
+SN4U,- - - - - Ring worm infection disorder (TM2),(a) dadru-ku??ha? (b) Pa?art?marai (c) Q?b?,
+SN4V,- - - - - Acne disorder (TM2),"(a) yuv?napi?ak? (b) Mukapparu (c) Buth?r Labaniyya (c) H?abb al-Shab?b, (c) Buth?r Duhniyya, (c) Al-Ghudd al-Sh?’i‘",
+SN4W,- - - - - Ulcer disorder (TM2),(a) vra?a? (b) Pu? (c) Jur?h?,
+SN5Y,- - - - - Other specified skin disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SN5Z,"- - - - - Skin disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Nail disorders (TM2),,Skipped: Invalid or empty code
+SN60,- - - - - Brittle nails disorder (TM2),(a) nakhabheda? (c) Z?ufra T?alqiyya,
+SN6Y,- - - - - Other specified nail disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SN6Z,"- - - - - Nail disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Hair disorders (TM2),,Skipped: Invalid or empty code
+SN70,- - - - - Furunculosis of scalp disorder (TM2),(a) ar???ik? (b) A?al kap?lak karapp??,
+SN71,- - - - - Baldness disorder (TM2),(a) kh?lityam (b) Mayir utiral (c) S?ala‘,
+SN72,- - - - - Folliculitis disorder (TM2),(a) ar???ik? (c) Sa‘fa,
+SN73,- - - - - Premature greying of hair disorder (TM2),(a) ak?lapalita? (b) I?anarai (c) Shayb,
+SN7Y,- - - - - Other specified hair disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SN7Z,"- - - - - Hair disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SN90,- - - - Patchy alopecia disorder (TM2),(a) indralupta? (b) Pu?uve??u (c) D?’ al-Tha‘lab Alopecia areata/Pelade,
+SN91,- - - - Dandruff disorder (TM2),"(c) Baf? , (c) Hubayr? , (c) Qishr al-Ra’s , (c) H?ibriyya (a) d?ru?aka? (b) Po?uku, (b) Cu??u (c) H?az?z-o-Ibriyya",
+SN92,- - - - Carbuncle disorder (TM2),(a) pi?ak? (b) Pi?avai (c) Jamra (c) Shab Chir?gh,
+SN9Y,"- - - - Other specified skin, nail and hair disorders (TM2)",,Skipped: Invalid or missing entity ID in URL
+SN9Z,"- - - - Skin, nail and hair disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,"- - - Bone, joint and muscle disorders (TM2)",,Skipped: Invalid or empty code
+,- - - - Bone disorders (TM2),,Skipped: Invalid or empty code
+SP00,- - - - - Osteoporosis disorder (TM2),"(a) asthi?o?a? (c) Wahn al-‘Iz??m (c) Takhalkhul al-‘Iz??m, (b) Takhaththur al-‘Iz??m Osteopenia (TM2) (b) E?pu kiranti",
+SP0Y,- - - - - Other specified bone disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SP0Z,"- - - - - Bone disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Joint disorders (TM2),,Skipped: Invalid or empty code
+SP10,- - - - - Polyarthritis disorder (TM2),(b) Cantu v?tam (c) waram-e mafsal (a) v?taraktam (b) V?tacur??itam (c) Waja‘ al-Maf?s?il,
+SP11,- - - - - Rheumatism disorder (TM2),(a) ?mav?ta? (b) Va?ikk?lv?yu (c) H?ud?r,
+SP12,- - - - - Osteoarthritis disorder (TM2),(a) sandhigatav?ta? (b) A?al k?l v?yu (c) Tah?ajjur wa S?al?ba al-Maf?s?il,
+SP13,- - - - - Hip joint pain disorder (TM2),(a) ?ro?ibheda? (b) To?ai maiya varmam (c) Waja‘ al-Warik,
+SP14,- - - - - Gout disorder (TM2),(a) pittaja-v?taraktam (b) V?takar?a?am (c) Niqris,
+SP15,- - - - - Frozen shoulder disorder (TM2),(a) avab?huka? (b) Kumpa v?tam (c) Waja‘-i-Maf?al-i-Katif,
+SP1Y,- - - - - Other specified joint disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SP1Z,"- - - - - Joint disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Muscle disorders (TM2),,Skipped: Invalid or empty code
+SP20,"- - - - - Muscle pain, twisting disorder (TM2)",(a) khall? (b) Va?i c?lai (c) Tashannuj ?dh?’? twisting-pain on limbs,
+SP21,- - - - - Atony disorder (TM2),(a) a?gavibhra??a? (c) Istirkh?’ (b) Miruttu v?tam,
+SP2Y,- - - - - Other specified muscle disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SP2Z,"- - - - - Muscle disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SP40,- - - - Achillodynia disorder (TM2),(a) v?taka??akam (c) Waja‘ al-‘Aqib (b) Kutiv?tam,
+SP41,- - - - Sciatica disorder (TM2),(a) g?dhras? (c) ‘Irq al-Nas? Lumbar radiculopathies (b) V?tastampam,
+SP42,- - - - Lumbar spondylosis disorder (TM2),"(a) p???ha-graha? (b) Ta??aka v?tam (c) Waja‘ al-Z?ahr Stiff back (TM2), Backache (TM2) (a) kat?is?u?la (a) Kat?igraha",
+SP43,- - - - Lumbo-sacroiliac disorder (TM2),(b) V?tastampam (c) Waja‘ al-Kh?s?ira,
+SP44,- - - - Torticollis disorder (TM2),(a) many?stambha? (b) Pu?a Icivu,
+SP45,- - - - Cervical spondylosis disorder (TM2),(a) gr?v?stambha? (b) Caka?a V?tam (c) Waja‘ al-‘Unuq,
+SP4Y,"- - - - Other specified bone, joint and muscle disorders (TM2)",,Skipped: Invalid or missing entity ID in URL
+SP4Z,"- - - - Bone, joint and muscle disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - Disorders affecting the whole body (TM2),,Skipped: Invalid or empty code
+,- - - - Febricity disorders (TM2),,Skipped: Invalid or empty code
+SP50,- - - - - Enteric fever disorder (TM2),(b) V?takapa curam (c) H?umm? Mi‘wiyya,
+SP51,- - - - - Fever disorder (TM2),(a) jvara (b) Ta?va?i curam (c) H?umm?,
+SP52,- - - - - Fever disorder with excessive salivation (TM2),(a) kaphajajvara? (b) Kapa curam (c) H?umm? Lathiqa (c) H?umm? Balghamiyya L?zima,
+SP53,- - - - - High fever disorder with yellow discouloration (TM2),(a) paittikajvara? (b) Pitta curam (c) H?umm? al-Ghibb (c) T?rat??’?s,
+SP54,- - - - - Fever with body pain disorder (TM2),(a) v?tikajvara? (b) V?ta curam,
+SP55,- - - - - Fever with chills disorder (TM2),"(b) Na?ir curam , (b) Ku?ir curam (c) H?umm? al-Ghibb D?’ira",
+SP56,- - - - - High grade fever disorder (TM2),(b) Ce?ka?aic curam (c) H?umm? ‘Uf?niyya,
+SP57,- - - - - Intermittent fever disorder (TM2),(a) vi?amajvara? (b) Vi??uvarum curam (c) H?umm? D?’ira,
+SP58,- - - - - Continuous fever disorder (TM2),(c) H?umm? L?zima (a) santata (c) H?umm? D?’ima (b) Vi??ccuram,
+SP59,- - - - - Fever disorder due to external factor (TM2),(a) ?gantujvara? (b) Pi?ava?i curam (c) H?umm? al-Yawm,
+SP5A,- - - - - Inflammation with morbid matter disorder (TM2),(a) vra?a?opha? (b) A?ipa??a v?kka (c) Waram M?dd?,
+SP5B,- - - - - Consumptive disorder (TM2),(a) r?jayak?m? (b) I?aippu n?y (c) H?umm? Diqqiyya (c) Diqq,
+SP5Y,- - - - - Other specified febricity disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SP5Z,"- - - - - Febricity disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Metabolic disorders (TM2),,Skipped: Invalid or empty code
+SP60,- - - - - Diabetes mellitus disorder (TM2),"(a) madhumeha? (b) N?ri?ivu (c) Dhay?b?t?us (a) k?audrameha? (b) i?ippu ma?a n?r , (b) N?ri?ivu (c) D?l?biya , (c) Mu‘at?t?isha , (c) Daww?riyya , (c) Park?riyya",
+SP61,- - - - - Emaciation disorder (TM2),(a) k?r?yam (b) Asvatampa v?tam (c) Huz?l,
+SP62,- - - - - High fat disorder (TM2),(a) medov?ddhi? (b) Miku ko?uppu n?y,
+SP63,- - - - - Polydipsia disorder (TM2),(a) t???? (b) N?r v??kai n?y (c) ‘At?sh Mufrit?,
+SP64,- - - - - Obesity disorder (TM2),(a) medoroga? / atisthaulyam (b) Atit?la n?y (c) Siman Mufrit?,
+SP6Y,- - - - - Other specified metabolic disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SP6Z,"- - - - - Metabolic disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Tumours disorders (TM2),,Skipped: Invalid or empty code
+SP70,- - - - - Lipoma disorder (TM2),(a) medojagranthi (b) Ko?uppu ka?alai (c) Sal‘a Shah?miyya,
+SP71,- - - - - Benign tumour disorder (TM2),(a) granthi (b) Na?ma?avaikka??ika? (c) Sal‘?t,
+SP72,- - - - - Deep rooted spreading tumour disorder (TM2),(a) arbuda? (b) Vippuruti (c) Sarat?an (b) Pu??u n?yka?,
+SP7Y,- - - - - Other specified tumours disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SP7Z,"- - - - - Tumours disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SP90,- - - - Abscess disorder (TM2),(a) vidradhi? (b) Ka??i (c) Khur?j (c) Dubayla,
+SP91,- - - - Generalised oedema disorder (TM2),(a) sarvasara-??tha? (b) C?kai (c) Istisq?’ Lah?m? Anasarca (b) ?tal n?y,
+SP92,- - - - Oedema disorder (TM2),"(a) ?vayathu?, ?otha? (c) ?dh?ma (b) Va?iaiya n?y",
+SP93,- - - - Impaired immunity disorder (TM2),(a) ojovai?amyam (b) Iya?kai va?mai ku?aivu (c) ?u‘f-i-?ar?rat Ghar?ziyya,
+SP94,- - - - Inflammation disorder (TM2),"(a) ?opha?, (b) T?pitam, (c) Waram",
+SP95,- - - - Excessive yawning disorder (TM2),(a) jr?mbh? (b) Ko???vi (c) Kathra al-Tath?’ub,
+SP96,- - - - Laziness disorder (TM2),(a) ?lasyam (c) Law?-o-Fayh?adhaj,
+SP97,- - - - Severe fatigue disorder (TM2),(a) klama? (b) A?al c?lai,
+SP98,- - - - Syncope disorder (TM2),(a) m?rcch? (b) M?rccai (c) Ghash?,
+SP99,- - - - Pruritus disorder (TM2),(a) ka???? (b) Pitta Vi?ap?kam (c) H?ikka,
+SP9A,- - - - General debility disorder (TM2),(a) daurbalyam (b) T?ka va?mai ku?aivu (c) ?u‘f-i-‘?m,
+SP9Y,- - - - Other specified disorders affecting the whole body (TM2),,Skipped: Invalid or missing entity ID in URL
+SP9Z,"- - - - Disorders affecting the whole body (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,"- - - Mental, emotional and behavioural disorders (TM2)",,Skipped: Invalid or empty code
+,- - - - Mental disorders (TM2),,Skipped: Invalid or empty code
+SQ00,- - - - - Delirium disorder (TM2),(a) atipral?pa? (b) Ca??i n?y (c) Hadhay?n (a) pral?paka?,
+SQ01,- - - - - Hallucination disorder (TM2),(a) buddhisa?m?ha? (b) Piramai (c) khiyAlAt-e bAteleh,
+SQ02,- - - - - Hysteria disorder (TM2),(b) C?tik?v?tam (c) Ikhtin?q al-Rah?im,
+SQ03,- - - - - Insanity disorder (TM2),(a) unm?da? (b) U?matam (c) Jun?n (b) Ve?i (c) Wasw?s (c) waswAs-e sowdAwi,
+SQ04,- - - - - Depressive disorder (TM2),(a) kaphaja-unm?da? (b) U?m?ta pittam (c) M?lankh?liy?,
+SQ05,"- - - - - Lack of concentration, confusion disorder (TM2)",(a) anavasthitacittatvam (c) Ikhtl?t? al-Dhahn (c) ekhtelAt-e zehn,
+SQ0Y,- - - - - Other specified mental disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SQ0Z,"- - - - - Mental disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Emotional disorders (TM2),,Skipped: Invalid or empty code
+SQ10,- - - - - Anxiety ephemeral fever disorder (TM2),(a) mana-sant?pa? (b) Paya Curam (c) H?umm? al-Yawm Fikriyya,
+SQ1Y,- - - - - Other specified emotional disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SQ1Z,"- - - - - Emotional disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Behavioural disorders (TM2),,Skipped: Invalid or empty code
+SQ20,- - - - - Alcoholism disorder (TM2),(a) mad?tyaya? (b) Ku?i ve?i n?y (c) Kathrat-i-Shar?b Nosh? (a) p?n?tyaya?,
+SQ21,- - - - - Egomania disorder (TM2),(b) Cerukku n?y (c) Ru‘?nat,
+SQ22,- - - - - Non alcoholic intoxication disorder (TM2),(a) mada? (b) Matam,
+SQ23,- - - - - Panic attack disorder (TM2),(b) Mayakka n?y (c) Ghash? Nafs?n? (c) Ghash? Az ‘Aw?ri? Nafs?n?,
+SQ24,- - - - - Insomnia disorder (TM2),(a) nidr?n??a? (b) U?akkami?mai (c) Sahar (a) asvapna?,
+SQ2Y,- - - - - Other specified behavioural disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SQ2Z,"- - - - - Behavioural disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SQ40,- - - - Hypersomnia disorder (TM2),(a) nidr?dhikyam (c) Sub?t (c) sobAt (b) V?ta piramai,
+SQ41,- - - - Lycanthropy disorder (TM2),"(a) pittaja-unm?da? (b) Ac?ttiya pittam (c) Qut?rub (c) ‘Illa al-Dhi’b, (c) Jun?n Dhi’b?",
+SQ4Y,"- - - - Other specified mental, emotional and behavioural disorders (TM2)",,Skipped: Invalid or missing entity ID in URL
+SQ4Z,"- - - - Mental, emotional and behavioural disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - External factors disorders (TM2),,Skipped: Invalid or empty code
+,- - - - Infestation disorders (TM2),,Skipped: Invalid or empty code
+SQ50,- - - - - Worm infestation disorder (TM2),(a) k?mi? (b) Pu?u n?yka? (c) D?d?n al-Am‘?’ (a) sañj?tak?mi,
+SQ5Y,- - - - - Other specified infestation disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SQ5Z,"- - - - - Infestation disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Poisoning disorders (TM2),,Skipped: Invalid or empty code
+SQ60,- - - - - Pseudo poisoning disorder (TM2),(a) ?a?khavi?a? (b) Vi?app?ka r?kam,
+SQ61,- - - - - Artificial poison disorder (TM2),(a) garavi?a? (b) I?umaruntu nañcu,
+SQ6Y,- - - - - Other specified poisoning disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SQ6Z,"- - - - - Poisoning disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SQ80,- - - - Inadequate diet disorders (TM2),(a) h?nam?tr?h?ra? (b) ???accattu ku?aip??u n?yka?,
+SQ8Y,- - - - Other specified external factors disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SQ8Z,"- - - - External factors disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - Childhood disorders (TM2),,Skipped: Invalid or empty code
+SR00,- - - - Marasmus disorder (TM2),(a) kum?ra?o?a? (b) Vara? ka?am,
+SR01,- - - - Bed wetting disorder (TM2),(a) ?ayy?m?tratvam (c) Bawl fi’l Far?sh (b) Palarco??un?r,
+SR02,- - - - Infantile dysentry disorder (TM2),(b) M?ntak ka?iccal (c) Zah??r al-At?f?l,
+SR03,- - - - Infantile epilepsy disorder (TM2),(a) Skanda Apasmara (b) K?kkai Va?ippu (c) S?ar‘ al-At?f?l,
+SR04,- - - - Ophthalmia neonatarum disorder (TM2),(a) kuk??aka? (b) Amaram,
+SR05,- - - - Childhood malnutrition disorder (TM2),(a) p?rigarbhika? (b) N?r?makka?am Protein energy malnutrition,
+SR06,- - - - Oral thrush in babies disorder (TM2),(b) Kumari akkaram (c) Qul?‘-i-?iby?n,
+SR0Y,- - - - Other specified childhood disorders (TM2),,Skipped: Invalid or missing entity ID in URL
+SR0Z,"- - - - Childhood disorders (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - Traditional medicine patterns (TM2),,Skipped: Invalid or empty code
+,- - - Functional elements and humoral derangement patterns (TM2),,Skipped: Invalid or empty code
+SR10,- - - - Vitiation of v?ta pattern (TM2),(a) v?taprakopa?,
+SR11,- - - - Accumulation of Vata pattern (TM2),(a) v?tasañcaya?,
+SR12,- - - - Aggravation of vata pattern (TM2),(a) v?tav?ddhi? Increased v?ta (TM2),
+SR13,- - - - Spreading of vata pattern (TM2),(a) v?taprasara?,
+SR14,- - - - Depletion of vata pattern (TM2),(a) v?tak?aya?,
+SR15,- - - - Vitiation of pitta pattern (TM2),(a) pittaprakopa?,
+SR16,- - - - Accumulation of pitta pattern (TM2),(a) pittasañcaya?,
+SR17,- - - - Aggravation of pitta pattern (TM2),(a) pittav?ddhi? Increased pitta (TM2),
+SR18,- - - - Spreading of pitta pattern (TM2),(a) pittaprasara?,
+SR19,- - - - Depletion of pitta pattern (TM2),pittak?aya?,
+SR1A,- - - - Vitiation of kapha pattern (TM2),(a) kaphaprakopa?,
+SR1B,- - - - Accumulation of kapha pattern (TM2),(a) kaphasañcaya?,
+SR1C,- - - - Aggravation of kapha pattern (TM2),(a) kaphav?ddhi? Increased kapha (TM2),
+SR1D,- - - - Spreading of kapha pattern (TM2),(a) kaphaprasara?,
+SR1E,- - - - Depletion of kapha pattern (TM2),(a) kaphak?aya?,
+SR1F,- - - - Increase of Va?i pattern (TM2),(b) Va?i miku ku?am,
+SR1G,- - - - Increase of A?al pattern (TM2),(b) A?al mikuku?am,
+SR1H,- - - - Increase of Aiyam pattern (TM2),(b) Aiyam mikuku?am,
+SR1J,- - - - Decrease of Va?i pattern (TM2),(b) Va?i ku?ai ku?am,
+SR1K,- - - - Decrease of A?al pattern (TM2),(b) A?al ku?aiku?am,
+SR1L,- - - - Decrease of Aiyam pattern (TM2),(b) Aiyam ku?aiku?am,
+SR1M,- - - - Predominance of Dam pattern (TM2),(c) Ghalaba’-i-Dam,
+SR1N,- - - - Predominance of ?afr?’ pattern (TM2),(c) Ghalaba’-i-?afr?’,
+SR1P,- - - - Predominance of Balgham pattern (TM2),(c) Ghalaba’-i-Balgham,
+SR1Q,- - - - Predominance of Sawd?’ pattern (TM2),(c) Ghalaba’-i-Sawd?’,
+SR1R,- - - - Blood thickening pattern (TM2),(c) ghelzat-e khoon (c) Ghil?a al-Dam,
+SR1S,- - - - Blood thinning pattern (TM2),(c) reqqat-e khoon (c) Riqqa al-Dam,
+SR1T,- - - - Blood deficiency pattern (TM2),(c) qellat-e khoon (c) Qilla al-Dam,
+SR1U,- - - - Blood hyperviscosity pattern (TM2),(c) lozoujat-e khoon (c) Luz?ja al-Dam,
+SR1V,- - - - Spoilage of humors pattern (TM2),(c) fesAd-e khelt (c) Fas?d-i-Khil?,
+SR1W,- - - - Burning of humors pattern (TM2),(c) ehterAq-e khelt (c) I?tir?q-i-Khil?,
+SR1X,- - - - Thickening of humors pattern (TM2),(c) ghelzat-e khelt (c) Ghil?a al-Khil?,
+SR20,- - - - Pattern of occlusion (TM2),(a) ?vara?a,
+SR2Y,- - - - Other specified functional elements and humoral derangement patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SR2Z,"- - - - Functional elements and humoral derangement patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - Physical constituent derangement patterns (TM2),,Skipped: Invalid or empty code
+SR40,- - - - Vitiation of 'primary structural components of the body' pattern (TM2),dh?tuvai?amyam,
+SR41,- - - - Aggravation of primary circulating nutrient fluid pattern (TM2),(a) rasav?ddhi? (b) C?ram mikuku?am Increase in Chyle (TM2),
+SR42,- - - - Depletion of primary circulating nutrient fluid pattern (TM2),(a) rasak?aya? (b) C?ram ku?aiku?am Decrease in chyle (TM2),
+SR43,- - - - Morbid increase of blood pattern (TM2),(a) raktav?ddhi? (b) Cenn?r mikuku?am,
+SR44,- - - - Depletion of blood pattern (TM2),(a) raktak?aya? (b) Cenn?r ku?aiku?am,
+SR45,- - - - Excessive increase of muscular tissues pattern (TM2),(a) m??sav?ddhi? (b) ?? mikuku?am,
+SR46,- - - - Depletion of muscular tissues pattern (TM2),(a) m??sak?aya? (b) ?? ku?aiku?am,
+SR47,- - - - Increase of adipose tissues pattern (TM2),(a) medov?ddhi? (b) Ko?uppu mikuku?am,
+SR48,- - - - Depletion of adipose tissues pattern (TM2),(a) meda?k?aya? (b) Ko?uppu ku?aiku?am,
+SR49,- - - - Increase of bone tissues pattern (TM2),(a) asthiv?ddhi? (b) E?pu miku ku?am,
+SR4A,- - - - Depletion of bone tissues pattern (TM2),(a) asthik?aya? (b) E?pu ku?ai ku?am,
+SR4B,- - - - Increase of bone marrow pattern (TM2),(a) majj?v?ddhi? (b) M??ai miku ku?am,
+SR4C,- - - - Depletion of bone marrow pattern (TM2),(a) majj?k?aya? (b) M??ai ku?ai ku?am,
+SR4D,- - - - Increase of reproductive tissues and semen pattern (TM2),(a) ?ukrav?ddhi? (b) Ve???r mikuku?am (a) ?ukr?dhikyam,
+SR4E,- - - - Depletion of reproductive tissues and semen pattern (TM2),(a) ?ukrak?aya? (b) Ve???r ku?aiku?am,
+SR4F,- - - - Diminution of Ojas pattern (TM2),(a) oja?k?aya?,
+SR4G,- - - - Derangement of Ojas pattern (TM2),(a) ojovy?pat,
+SR4H,- - - - Dislodgement of Ojas pattern (TM2),(a) ojovisra?sa?,
+SR4J,- - - - Increased menstrual flow pattern (TM2),(a) ?rtavav?ddhi?,
+SR4K,- - - - Diminution of menstrual flow pattern (TM2),(a) ?rtavak?aya? Hypomenorrhoea (TM2),
+SR4L,- - - - Increased secretion of breast milk pattern (TM2),(a) stanyav?ddhi?,
+SR4M,- - - - Decreased secretion of breast milk pattern (TM2),(a) stanyak?aya?,
+,- - - - Derangement of channels pattern (TM2),,Skipped: Invalid or empty code
+SR50,- - - - - Derangement of channels carrying essense of digested food pattern (TM2),(a) rasavahasrotodu??i?,
+SR51,- - - - - Derangement of channels enriching blood pattern (TM2),(a) raktavahasrotodu??i?,
+SR52,- - - - - Derangement of channels enriching muscle tissue pattern (TM2),(a) m??savahasrotodu??i?,
+SR53,- - - - - Derangement of channels carrying fat pattern (TM2),(a) medovahasrotodu??i?,
+SR54,- - - - - Derangement of channels enriching bone pattern (TM2),(a) asthivahasrotodu??i?,
+SR55,- - - - - Derangement of channels enriching bone marrow pattern (TM2),(a) majj?vahasrotodu??i?,
+SR56,- - - - - Derangement of channels enriching seminal fluid pattern (TM2),(a) ?ukravahasrotodu??i?,
+SR57,- - - - - Derangement of channels enriching vital life force pattern (TM2),(a) pr??avahasrotodu??i?,
+SR58,- - - - - Derangement of channels for fluid circulation pattern (TM2),"(a) ambuvahasrotodu??i?, (a) udakavahasrotodu??i?",
+SR59,- - - - - Derangement of digestive tract pattern (TM2),(a) annavahasrotodu??i?,
+SR5A,- - - - - Derangement of channels of faeces pattern (TM2),(a) pur??avahasrotodu??i?,
+SR5B,- - - - - Derangement of urinary tract pattern (TM2),(a) m?travahasrotodu??i?,
+SR5C,- - - - - Derangement of channels producing sweat pattern (TM2),(a) svedavahasrotodu??i?,
+SR5D,- - - - - Derangement of channels enriching breast milk pattern (TM2),(a) stanyavahasrotodu??i?,
+SR5E,- - - - - Derangement of mind related channels pattern (TM2),(a) manovahasrotodu??i?,
+SR5Y,- - - - - Other specified derangement of channels pattern (TM2),,Skipped: Invalid or missing entity ID in URL
+SR5Z,"- - - - - Derangement of channels pattern (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SR60,- - - - Increase of female reproductive tissue pattern (TM2),(b) Cur??itam mikuku?am,
+SR61,- - - - Decrease of female reproductive tissue pattern (TM2),(b) Cur??itam ku?aiku?am,
+SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),(c) Amr??-i-‘Adad,
+SR63,- - - - Pattern of abnormal positioning of organs and appendages (TM2),(c) Amr?? al-Wa?‘,
+SR64,- - - - Pattern of abnormal relative position of organs (TM2),(c) Amr??-i- Mush?rakat,
+SR65,- - - - Loss of continuity pattern (TM2),(c) Tafarruq al-Itti??l,
+SR66,- - - - R?? pattern (TM2),(c) maraz-e nAshi az rih (c) Mara? N?sh? az R??,
+SR67,- - - - Bukh?r?t pattern (TM2),(c) maraz-e nAshi az abkhareh (c) Mara? N?sh? az Bukh?r?t,
+SR68,- - - - Compound pattern (TM2),(c) Amr?? Murakkaba,
+SR69,- - - - Pattern of quantity (TM2),(c) maraz-e kamm (c) Amr??-i-Miqd?r,
+SR6Y,- - - - Other specified physical constituent derangement patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SR6Z,"- - - - Physical constituent derangement patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - Excretory products derangement patterns (TM2),,Skipped: Invalid or empty code
+SR80,- - - - Morbid increase of feces pattern (TM2),(a) pur??av?ddhi?,
+SR81,- - - - Depletion of faeces pattern (TM2),(a) pur??ak?aya?,
+SR82,- - - - Excessive urine pattern (TM2),(a) m?trav?ddhi?,
+SR83,- - - - Reduced urine pattern (TM2),m?trak?aya?,
+SR84,- - - - Hyperhidrosis pattern (TM2),(a) svedav?ddhi?,
+SR85,- - - - Anhidrosis pattern (TM2),(a) svedak?aya?,
+SR86,- - - - Faeces with undigested food residues pattern (TM2),(a) s?mamala?,
+SR87,- - - - Urine of over heat pattern (TM2),(b) Ati u??i?a n?r,
+SR88,- - - - Urine colour of excessive cold pattern (TM2),(b) Miku c?ta?a n?r ni?am,
+SR89,"- - - - Urine colour of excessive depravement of Va?i, A?al and Aiyam pattern (TM2)",(b) Mummala?ka?ai mikavum atikam?ka ke?ukkum n?r ni?am,
+SR8A,- - - - Urine like colour of raw-meat washings pattern (TM2),(c) Bawl Ghus?l?,
+SR8B,- - - - Delayed passing of stool pattern (TM2),(c) Bu??’ Khur?j al-Bar?z,
+SR8C,- - - - Dry stool pattern (TM2),(c) Al-Bar?z al-Y?bis,
+SR8D,- - - - Larger quantity of stool pattern (TM2),(c) Ziy?da al-Bar?z,
+SR8E,- - - - Sharp smelling sweat pattern (TM2),(c) Al-‘Araq ??dd al-R?’i?a,
+SR8F,- - - - Sour smelling sweat pattern (TM2),(c) Al-‘Araq ??mi? al-R??,
+SR8G,- - - - Sweat of thick consistency pattern (TM2),(c) Al-‘Araq al-Ghal??,
+SR8H,- - - - Sweat of thin consistency pattern (TM2),(c) Al-‘Araq al-Raq?q,
+SR8J,- - - - Lack of sweat pattern (TM2),(c) Al-‘Araq al-Qal?l al-Miqd?r Deficient sweating (TM2),
+SR8K,- - - - Excess of sputum pattern (TM2),(c) Al-Nafth al-Kath?r al-Miqd?r Excessive expectoration (TM2),
+SR8L,- - - - Lack of sputum pattern (TM2),(c) Al-Nafth al-Qal?l al-Miqd?r Scanty expectoration (TM2),
+SR8M,- - - - Moderate quantity of sputum during convalescence pattern (TM2),(c) Al-Nafth al-Mu‘tadil al-Miqd?r,
+SR8N,- - - - Excess of sweat pattern due to decreased vitality (TM2),Excessive sweating (TM2) (c) Ifr?? al-‘Araq,
+SR8Y,- - - - Other specified excretory products derangement patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SR8Z,"- - - - Excretory products derangement patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - Power derangement and chronic accumulation patterns (TM2),,Skipped: Invalid or empty code
+,- - - - Digestive fire based patterns (TM2),,Skipped: Invalid or empty code
+SS10,- - - - - Derangement of digestive power pattern (TM2),(a) agnivai?amyam,
+SS11,- - - - - Irregular digestive power pattern (TM2),(a) vi?am?gni?,
+SS12,- - - - - Elevated digestive power pattern (TM2),(a) t?k???gni?,
+SS13,- - - - - Subdued digestive power pattern (TM2),"(a) mand?gni?, (a) agnis?da?",
+SS14,- - - - - Highly elevated digestive power pattern (TM2),"(a) atyagni?, (a) bhasmaka?",
+SS15,"- - - - - State of incomplete digestion, transformation or metabolism pattern (TM2)",(a) ?mado?a? (a) ?mavasth?,
+SS16,- - - - - Natural digestive fire pattern (TM2),(b) Cam?kki?i,
+SS17,- - - - - Strong digestive fire pattern (TM2),(b) T??a??kki?i,
+SS18,- - - - - Toxic digestive fire pattern (TM2),(b) Vi?am?kki?i,
+SS19,- - - - - Weak digestive fire pattern (TM2),(b) Mant?kki?i,
+SS1Y,- - - - - Other specified digestive fire based patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SS1Z,"- - - - - Digestive fire based patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Chronic accumulation patterns (TM2),,Skipped: Invalid or empty code
+SS20,- - - - - Suppression of breath pattern (TM2),(b) M?ccai a?akkutal?l ??pa?um m??utalka?,
+SS21,- - - - - Suppression of yawning pattern (TM2),(b) Ko???viyai a?akkutal (a) j?mbh?vegarodha?,
+SS22,- - - - - Suppression of hunger and thirst together pattern (TM2),(b) Paci ma??um t?katti?ai a?akkutal,
+SS23,- - - - - Suppression of semen pattern (TM2),(b) Cukkilattai a?akkutal (a) ?ukravegarodha?,
+SS24,- - - - - Suppression of cough pattern (TM2),(b) Irumalai a?akkutal,
+SS25,- - - - - Suppression of micturition pattern (TM2),(b) Ci?un?rai a?akkutal (a) m?travegarodha?,
+SS26,- - - - - Suppression of sleep pattern (TM2),(b) T?kkattai a?akkal (a) nidr?vegarodha?,
+SS27,- - - - - Suppression of sneeze pattern (TM2),(b) Tummalai a?akkutal (a) k?avathuvegarodha?,
+SS28,- - - - - Suppression of tears pattern (TM2),(b) Ka???rai a?akkutal (a) a?ruvegarodha?,
+SS29,- - - - - Suppression of vomiting pattern (TM2),(b) V?ntiyai a?akkutal (a) chardivegarodha?,
+SS2A,- - - - - Suppression of stool pattern (TM2),(b) Malatti?ai a?akkutal (a) pur??avegarodha?,
+SS2B,- - - - - Supression of exertional hyperpnea pattern (TM2),(a) ?rama?v?savegarodha?,
+SS2C,- - - - - Suppression of hunger pattern (TM2),(a) k?udvegarodha?,
+SS2D,- - - - - Suppression of thirst pattern (TM2),(a) t????vegarodha?,
+SS2E,- - - - - Suppression of flatus pattern (TM2),(a) adhov?taveg?varodha?,
+SS2F,- - - - - Pattern of humour accumulated with air (TM2),(b) V?yu?a? mukku??am nilaiya?ital,
+SS2G,- - - - - Pattern of humour accumulated with excess cold (TM2),(b) C?tattu?a? mukku??am nilaiya?ital,
+SS2H,- - - - - Pattern of humour accumulated with excess heat (TM2),(b) U??attu?a? mukku??am nilaiya?ital,
+SS2Y,- - - - - Other specified chronic accumulation patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SS2Z,"- - - - - Chronic accumulation patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Power derangement patterns (TM2),,Skipped: Invalid or empty code
+SS30,- - - - - Physical faculties derangement pattern (TM2),(c) Khalal-i-Quw? ?ab?‘iyya,
+SS31,- - - - - Nutritive faculty derangement pattern (TM2),(c) Khalal-i-Quwwat Gh?dhiya,
+SS32,- - - - - Collecting faculty derangement pattern (TM2),(c) Khalal-i-Quwwat Mu?a??ila,
+SS33,- - - - - Adhesive faculty derangement pattern (TM2),(c) Khalal-i-Quwwat Mula??iqa,
+SS34,- - - - - Assimilation faculty derangement pattern (TM2),(c) Khalal-i-Quwwat Mushabbiha,
+SS35,- - - - - Absorptive faculty derangement pattern (TM2),(c) Khalal-i-Quwwat J?dhiba,
+SS36,- - - - - Retentive faculty derangement pattern (TM2),(c) Khalal-i-Quwwat M?sika,
+SS37,- - - - - Digestive faculty derangement pattern (TM2),(c) Khalal-i-Quwwat H??ima,
+SS38,- - - - - Expulsive faculty derangement pattern (TM2),(c) Khalal-i-Quwwat D?fi‘a,
+SS39,- - - - - Growth faculty derangement pattern (TM2),(c) Khalal-i-Quwwat N?miya/Khalal-i-Quwwat Murabbiya,
+SS3A,- - - - - Reproductive faculties derangement pattern (TM2),(c) Khalal-i-Quw? Tan?suliyya,
+SS3B,- - - - - Vital faculty derangement pattern (TM2),(c) Khalal-i-Quwwat ?ayw?niyya,
+SS3C,- - - - - Psychic faculties derangement pattern (TM2),(c) Khalal-i-Quw? Nafs?niyya,
+SS3D,- - - - - Debility of organs pattern (TM2),(c) ?u‘f-i-A‘??',
+SS3E,- - - - - Innate heat weakness pattern (TM2),(c) za'f-e harArat-e gharizi (c) ?u‘f-i-?ar?rat Ghar?z?,
+SS3F,- - - - - Disruption of innate heat pattern (TM2),(c) soqout-e harArat-e gharizi (c) Suq??-i-?ar?rat Ghar?z?,
+SS3G,- - - - - Weakness of psychic spirit pattern (TM2),(c) za'f-e rouh-e nafsAni (c) ?u‘f-i-R?? Nafs?n?,
+SS3H,- - - - - Weakness of natural spirit pattern (TM2),(c) za'f-e rouh-e tabi'ei (c) ?u‘f-i-R?? ?ab?‘?,
+SS3J,- - - - - Weakness of vital spirit pattern (TM2),(c) za'f-e rouh-e hayawAni (c) ?u‘f-i-R?? ?ayw?n?,
+SS3Y,- - - - - Other specified power derangement patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SS3Z,"- - - - - Power derangement patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+SS4Y,- - - - Other specified power derangement and chronic accumulation patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SS4Z,"- - - - Power derangement and chronic accumulation patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - Body constitution and temperament patterns (TM2),,Skipped: Invalid or empty code
+,- - - - Constitution patterns (TM2),,Skipped: Invalid or empty code
+SS50,- - - - - Vata constitution pattern (TM2),(a) v?taprakr?ti?,
+SS51,- - - - - Pitta constitution pattern (TM2),(a) pittaprakr?ti?,
+SS52,- - - - - Kapha constitution pattern (TM2),(a) kaphaprakr?ti?,
+SS53,- - - - - Vata-Pitta constitution pattern (TM2),(a) v?tapittaprakr?ti?,
+SS54,- - - - - Pitta-Kapha constitution pattern (TM2),(a) pittakaphaprakr?ti?,
+SS55,- - - - - Kapha-Vata constitution pattern (TM2),(a) kaphav?taprakr?ti?,
+SS56,- - - - - Body constitution with a predominance of all three dosha pattern (TM2),"(a) trid??ajaprakr?ti?, (a) samaprakr?ti?",
+SS57,- - - - - Va?i body constitution pattern (TM2),(b) Va?i u?alikka?am,
+SS58,- - - - - A?al body constitution pattern (TM2),(b) A?al u?alikka?am,
+SS59,- - - - - Aiyam body constitution pattern (TM2),(b) Aiyam u?alikka?am,
+SS5A,- - - - - Va?i-predominant A?al body constitution pattern (TM2),(b) Va?i A?al u?alikka?am,
+SS5B,- - - - - Va?i-predominant Aiyam body constitution pattern (TM2),(b) Va?i aiya u?alikka?am,
+SS5C,- - - - - A?al-predominant Va?i body constitution pattern (TM2),(b) A?alva?i u?alikka?am,
+SS5D,- - - - - A?al-predominant Aiyam body constitution pattern (TM2),(b) A?alayam u?alikka?am,
+SS5E,- - - - - Aiya-predominant A?al body constitution pattern (TM2),(b) Aiya?al u?alikka?am,
+SS5F,- - - - - Aiya-predominant Va?i body constitution pattern (TM2),(b) Aiyava?i u?alikka?am,
+SS5Y,- - - - - Other specified constitution patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SS5Z,"- - - - - Constitution patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Personality patterns (TM2),,Skipped: Invalid or empty code
+SS60,"- - - - - Personality with a calm, composed mindset (TM2)",Sattva predominant pattern (TM2) (a) s?ttvikak?ya (a) ?uddhak?ya,
+SS61,"- - - - - Personality with an agitated, reactive mindset (TM2)",Rajas predominant pattern (TM2) (a) r?jasikak?ya,
+SS62,"- - - - - Personality with a confused, negative mindset (TM2)",Tamas predominant pattern (TM2) (a) t?masikak?ya,
+SS6Y,- - - - - Other specified personality patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SS6Z,"- - - - - Personality patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Temperament based patterns (TM2),,Skipped: Invalid or empty code
+SS70,- - - - - Human temperament pattern (TM2),(c) Miz?j Ins?n?,
+SS71,- - - - - Temperament according to age pattern (TM2),(c) Miz?j-i-A‘m?r,
+SS72,- - - - - Dam predominant temperament pattern (TM2),(c) Damaw? al-Miz?j Hot and moist temperament pattern (TM2) (c) Miz?j H??rr Ratb,
+SS73,- - - - - ?afr?’ predominant temperament pattern (TM2),(c) S?afr?w? al-Miz?j Hot and dry temperament pattern (TM2) (c) Miz?j H??rr Y?bis,
+SS74,- - - - - Balgham predominant temperament pattern (TM2),(c) Balgham? al-Miz?j Cold and moist temperament pattern (TM2) (c) Miz?j B?rid Ratb,
+SS75,- - - - - Sawd?’ predominant temperament pattern (TM2),(c) Sawd?w? al-Miz?j Cold and dry temperament pattern (TM2) (c) Miz?j B?rid Y?bis,
+SS7Y,- - - - - Other specified temperament based patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SS7Z,"- - - - - Temperament based patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - - Age dependent patterns (TM2),,Skipped: Invalid or empty code
+SS80,- - - - - Kapha predominant age pattern (TM2),(a) B?ly?vasth? (a) b?l?vasth?,
+SS81,- - - - - Pitta predominant age pattern (TM2),(a) madhyam?vasth?,
+SS82,- - - - - Vata predominant age pattern (TM2),"(a) v?ddh?vasth? (a) sth?virya?, (a) v?rdhakya?",
+SS83,- - - - - Childhood age pattern (TM2),"(b) P?la? (b) K?ppu C??k?rai T?l???u Capp??i Muttam Varukai Ampuli Ci??il, (b) n?r??al Ci?upa?ai (b) amm??ai Ci?uter, (b) ?cal P?la?, (b) petai",
+SS84,- - - - - Adult age pattern (TM2),"(b) m?l?i (b) p?tumpai ma?avo?, (b) ma?kai Ti?avo?, (b) ma?antai Vi?alai, (b) arivai K?l?ai (b) t?rivai mutumaka?, (b) peril?am p??",
+SS85,- - - - - Old age pattern (TM2),(b) Mutumaka? (b) p?ri?am pe?,
+SS86,- - - - - Hot and moist predominant temperament age pattern (TM2),"(c) Senn-e-Nomov, (c) Senn-e-?ad?that (c) Sinn-i-Num?, (c) Sinn-i-?ad?that",
+SS87,- - - - - Hot predominant temperament with lesser degree of moistness age pattern (TM2),"(c) Senn-e-Shab?b, (c) Senn-e-Wuq?f (c) Sinn-i-Shab?b, (c) Sinn-i-Wuq?f",
+SS88,- - - - - Cold and dry predominant temperament age pattern (TM2),"(c) Senn-i-Koh?lat, (c) Senn-i-In?i??? (c) Sinn-i-Kuh?lat, (c) Sinn-i-In?i???",
+SS89,- - - - - Cold predominant temperament with greater degree of dryness age pattern (TM2),(c) Sinn-i-Shaykh?khat,
+SS8Y,- - - - - Other specified age dependent patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+SS8Z,"- - - - - Age dependent patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+ST00,- - - - Abnormal temperament pattern (TM2),(c) S?’-i-Miz?j Morbid temperament (TM2) Impaired temperament (TM2) Immoderate temperament (TM2),
+ST01,- - - - Simple morbid temperament pattern (TM2),(c) S?’-i-Miz?j Mufrad,
+ST02,- - - - Simple abnormal temperament without substance pattern (TM2),"(c) S?’-i-Miz?j Mufrad S?da, (c) Miz?j Ghayr Mu‘tadil Mufrad S?da (c) S?’-i-Miz?j S?deh Simple abnormal temperament pattern (TM2) (c) S?’-i-Miz?j S?da",
+ST03,- - - - Abnormal hot temperament pattern (TM2),(c) S?’-i-Miz?j ??rr,
+ST04,- - - - Abnormal cold temperament pattern (TM2),(c) S?’-i-Miz?j B?rid (c) S?’-i-Miz?j B?red,
+ST05,- - - - Abnormal moist temperament pattern (TM2),(c) S?’-i-Miz?j Ra?b,
+ST06,- - - - Abnormal dry temperament pattern (TM2),(c) S?’-i-Miz?j Y?bis,
+ST07,- - - - Abnormal temperament associated with substance pattern (TM2),(c) S?’-i-Miz?j M?dd? Simple abnormal temperament with substance pattern (TM2) (c) S?’-i-Miz?j Mufrad M?dd?,
+ST08,- - - - Abnormal hot temperament with substance pattern (TM2),(c) S?’-i-Miz?j ??rr M?dd?,
+ST09,- - - - Abnormal cold temperament with substance pattern (TM2),(c) S?’-i-Miz?j B?rid M?dd?,
+ST0A,- - - - Abnormal moist temperament with substance pattern (TM2),(c) S?’-i-Miz?j Ra?b M?dd?,
+ST0B,- - - - Abnormal dry temperament with substance pattern (TM2),(c) S?’-i-Miz?j Y?bis M?dd?,
+ST0C,- - - - Compound morbid temperament pattern (TM2),"(c) Miz?j Ghayr Mu‘tadil Murakkab, (c) S?’-i-Miz?j Murakkab",
+ST0D,- - - - Simple compound abnormal temperament pattern (TM2),"(c) S?’-i-Miz?j Murakkab S?da, (c) Miz?j Ghayr Mu‘tadil Murakkab S?da",
+ST0E,- - - - Simple hot and moist abnormal temperament pattern (TM2),(c) S?’-i-Miz?j ??rr Ra?b S?da,
+ST0F,- - - - Simple hot and dry abnormal temperament pattern (TM2),(c) S?’-i-Miz?j ??rr Y?bis S?da,
+ST0G,- - - - Simple cold and moist abnormal temperament pattern (TM2),(c) S?’-i-Miz?j B?rid Ra?b S?da,
+ST0H,- - - - Simple cold and dry abnormal temperament pattern (TM2),(c) S?’-i-Miz?j B?rid Y?bis S?da,
+ST0J,- - - - Compound abnormal temperament associated with substance pattern (TM2),(c) S?’-i-Miz?j Murakkab M?dd?,
+ST0K,- - - - Abnormal hot and moist temperament associated with substance pattern (TM2),(c) S?’-i-Miz?j ??rr Ra?b M?dd?,
+ST0L,- - - - Abnormal hot and dry temperament associated with substance pattern (TM2),(c) S?’-i-Miz?j ??rr Y?bis M?dd?,
+ST0M,- - - - Abnormal cold and moist temperament associated with substance pattern (TM2),(c) S?’-i-Miz?j B?rid Ra?b M?dd?,
+ST0N,- - - - Abnormal cold and dry temperament associated with substance pattern (TM2),(c) S?’-i-Miz?j B?rid Y?bis M?dd?,
+ST0P,- - - - Stable abnormal temperament pattern (TM2),(c) S?’-i-Miz?j Mustaw? (c) S?’-i-Miz?j Mostaw?,
+ST0Q,- - - - Unstable abnormal temperament pattern (TM2),(c) S?’-i-Miz?j Mukhtalif (c) S?’-i-Miz?j Mokhtalef,
+ST0R,- - - - Thickening of moisture pattern (TM2),(c) ghelzat-e rotoubat (c) Ghilz?a al-Ru??ba,
+ST0S,- - - - Presence of foreign moisture pattern (TM2),(c) rotoubat-e gharibeh (c) Ru??bat Ghar?ba,
+ST0T,- - - - Thinning of moistures pattern (TM2),(c) reqqat-e rotoubat (c) Riqqa al-Ru??ba,
+ST0U,- - - - Infection of moistures pattern (TM2),(c) ofounat-e rotoubat (c) Uf?nat,
+ST0V,- - - - Change of temperament of psychic R?? pattern (TM2),(c) tagheir-e mezAj-e rouh-e nafsAni (c) Taghayyur-i-Miz?j-i-R?? Nafs?n?,
+ST0W,- - - - Predominance of hotness pattern (TM2),(c) Ghalaba’-i-?ar?rat,
+ST0X,- - - - Predominance of coldness pattern (TM2),(c) Ghalaba’-i-Bur?dat,
+ST10,- - - - Predominance of moistness pattern (TM2),(c) Ghalaba’-i-Ru??bat,
+ST11,- - - - Predominance of dryness pattern (TM2),(c) Ghalaba’-i-Yub?sat,
+ST1Y,- - - - Other specified body constitution and temperament patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+ST1Z,"- - - - Body constitution and temperament patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL
+,- - - Varmam and Marmam patterns (TM2),,Skipped: Invalid or empty code
+ST20,- - - - Injury pattern in the varmam or marmam (TM2),(a) marmaviddha? (b) Varma a?i,
+ST2Y,- - - - Other specified varmam and Marmam patterns (TM2),,Skipped: Invalid or missing entity ID in URL
+ST2Z,"- - - - Varmam and Marmam patterns (TM2), unspecified",,Skipped: Invalid or missing entity ID in URL

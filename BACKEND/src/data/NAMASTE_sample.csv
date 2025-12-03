@@ -1,0 +1,7 @@
+NMS_CODE,TERM_NAME,DESCRIPTION,SYNONYMS
+A01.1,Jvara,"The cardinal symptom of many diseases, characterized by an increase in body temperature. It is considered the king of all diseases in Ayurveda.","Fever,Ayurvedic fever,high temp"
+A12.3,Pratishyaya,"A condition of the upper respiratory tract often correlated with the common cold or influenza, involving symptoms like nasal discharge, headache, and cough.","Common cold,rhinitis,flu like symptoms"
+A15.8,Dandaka Jvara,"A type of fever described in Ayurveda with symptoms that are highly correlated with Dengue fever, including high fever, severe joint and muscle pain, and rash.","Dengue fever (Ayurveda)"
+A15.9,Vishamajvara,"A class of fevers characterized by an irregular or intermittent pattern, often correlated with Malaria. The fever pattern is a key diagnostic feature.","Intermittent fever,Malaria (Ayurveda)"
+B33.1,Shirashoola,"A condition of pain in the head region, classified based on the vitiated doshas (Vataja, Pittaja, Kaphaja).","Headache (Ayurveda),head pain"
+A60.1,Amavata,"A disorder with joint pain and stiffness, often correlated with Rheumatoid Arthritis. Caused by vitiated Vata and accumulation of Ama.","Joint pain,Ama Vatham"

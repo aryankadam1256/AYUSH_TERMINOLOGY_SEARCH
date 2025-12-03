@@ -1,0 +1,13 @@
+@echo off
+echo Starting Medical Terminology Project...
+
+echo Starting ML Service (Python)...
+start "ML Service" cmd /k "cd ML_SERVICE && "C:\Users\admin\AppData\Local\Programs\Python\Python314\python.exe" main.py"
+
+echo Starting Backend (Node.js)...
+start "Backend" cmd /k "cd BACKEND && npm start"
+
+echo Starting Frontend (React)...
+start "Frontend" cmd /k "cd FRONTEND && npm run dev"
+
+echo All services started!

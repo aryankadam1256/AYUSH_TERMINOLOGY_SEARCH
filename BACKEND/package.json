@@ -1,0 +1,35 @@
+{
+  "name": "ayush-terminology-backend",
+  "version": "1.0.0",
+  "description": "Terminology micro-service for NAMASTE and ICD-11 integration.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "ingest": "node src/scripts/ingestData.js",
+    "ingest:db": "node src/scripts/ingestToPostgres.js",
+    "ingest:mongo": "node src/scripts/ingestToMongo.js"
+  },
+  "keywords": [
+    "fhir",
+    "namaste",
+    "icd-11",
+    "ayush"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.19.1",
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.19.2",
+    "pg": "^8.16.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

@@ -1,0 +1,4 @@
+- [ ] Start the backend server using 'cd BACKEND && npm start'
+- [ ] Start the frontend development server using 'cd FRONTEND && npm run dev'
+- [ ] Launch browser to frontend URL (http://localhost:5173) and perform a search to verify API connection
+- [ ] Analyze the result: if search returns results, frontend and backend are connected; otherwise, check configuration

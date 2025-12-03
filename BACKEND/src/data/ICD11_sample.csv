@@ -1,0 +1,7 @@
+Entity-ID,Foundation-Title,Definition,AlternateNames
+MG20,"Fever, unspecified","A temporary increase in body temperature, often due to an illness. Having a fever is a sign that something out of the ordinary is going on in your body.","Pyrexia,high temperature,hyperthermia"
+1E30,Influenza,"An acute viral infection of the respiratory tract, with symptoms including fever, cough, headache and malaise.","Flu,grippe"
+1EC1,"Dengue fever","A mosquito-borne viral infection causing a severe flu-like illness and, sometimes, a potentially lethal complication called severe dengue.","Breakbone fever"
+1F40,Malaria,"A life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes. It is preventable and curable.","Jungle fever,marsh fever"
+MG30.0,Headache,"A painful sensation in any part of the head, ranging from sharp to dull, that may occur with other symptoms.","Cephalalgia,head pain"
+MD90,Nausea,"A sensation of unease and discomfort in the upper stomach with an involuntary urge to vomit.","Sickness,queasiness"

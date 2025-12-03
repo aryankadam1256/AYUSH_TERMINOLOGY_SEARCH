@@ -1,0 +1,11 @@
+# Master rule for Fever
+jvara, pyrexia, high temp, high temperature, hyperthermia => fever
+
+# Master rule for Headache
+shirashoola, head pain, cephalalgia => headache
+
+# Master rule for Flu/Cold
+pratishyaya, common cold, flu, grippe => influenza
+
+# Master rule for Joint Pain
+amavata, ama vatham, rheumatic complaints, inflammatory joint disease, ra => joint pain, rheumatoid arthritis

@@ -1,0 +1,711 @@
+Code,Name,Synonyms,Problem
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SK00,#NAME?,"(a) ?ira???la, (b) Ma??aikkuttiyal, (c) S?ud?‘ (a) ?iroruk",
+SK01,#NAME?,(a) ardh?vabhedaka? (c) Shaq?qa (b) Kap?la a?a?ku?am,
+SK0Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SK0Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SK10,#NAME?,(a) bhrama? (b) A?al ki?uki?uppu (c) Sadr-o-Duw?r,
+SK1Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SK1Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SK20,#NAME?,(a) ardita? (b) Uraka v?tam (c) Laqwa,
+SK21,#NAME?,(a) pa?gu? (c) F?lij Asfal lameness (bilateral) / lower limb paralysis (TM2) (a) p??gulyam (c) F?lij At?r?f?,
+SK22,#NAME?,(a) pak??gh?ta (b) Pak?av?tam (c) F?lij (a) pak?avadha?,
+SK2Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SK2Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SK30,#NAME?,(a) ?k?epaka? (b) Va?ippu (c) Tashannuj,
+SK31,#NAME?,(a) apasm?ra? (b) Va?i ppu (c) S?ar‘,
+SK3Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SK3Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SK50,#NAME?,(a) kap?la-roga? (b) Kap?la t?rai,
+SK51,#NAME?,(a) vi?v?c? (b) Cirakkampa v?tam (c) Waja‘ al-‘Unuq ‘As?ab? (c) W?bila Cervicobrachial neuralgia (TM2),
+SK52,#NAME?,(a) kampa? (b) P??ikkampa v?tam (c) Ra‘sha Parkinsonism (TM2),
+SK53,#NAME?,(a) v?k-sa?ga? (b) Patita v?tam (c) Loknat-e zabAn (c) Luknat,
+SK54,#NAME?,(a) prasupti? (b) V?takar?a?am (c) Khadar,
+SK55,#NAME?,(a) ?rustambha? (b) ?rustampav?tam,
+SK5Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SK5Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SK60,#NAME?,(a) sir?prahar?a? (b) Untu nerical (c) Takaddur ?abaqa al-Multa?ima (a) Sir?har?a?,
+SK61,#NAME?,(a) ajak?j?jta (c) Dhub?b? (a) ajak? (c) Ra’s al-Dhub?b? (b) P?cc?ntiram,
+SK62,#NAME?,(a) vartm?vabandhaka? (b) Imai Ta?ippu (c) Sul?q (c) B?mn?,
+SK63,#NAME?,(a) pittavidagdhad???i (b) T?yaka? Kurutu (c) Jahar (a) div?ndhyam (c) Rozkor?,
+SK64,#NAME?,(a) r?try?ndhyam (b) M?laikka? (c) ‘Ash?’ (a) kaphavidagdhad???i (c) Shabkor?,
+SK65,#NAME?,(a) k?ca? (b) Va?i k?cam (c) Nuz?l al-M?’,
+SK66,#NAME?,"""(a) abhi?yanda? (b) A??a k?pam (c) Ramad"" (c) ?shob-i-Chashm",
+SK67,#NAME?,(a) k???agataroga? (b) Karuvi?i n?yka (c) Amr??-i-?abaqa'-i-Qarniyya,
+SK68,#NAME?,(a) p?y?lasa? (b) Kuval?aippa?uva? (c) Gharab Munfajir,
+SK69,#NAME?,(a) kumbh?k? (b) Vira?ap Paru (c) Sal‘a al-Ajf?n,
+SK6A,#NAME?,(a) ?u?k?k?ip?ka? (c) Yubs al-Qarniyya (b) A?a??i,
+SK6B,#NAME?,(b) Imaiyuyarcci (c) Shatra Kh?rijiyya,
+SK6C,#NAME?,(a) prast?ri-arma (b) N?kap pa?alam (c) ?afara (c) N?kh?na,
+SK6D,#NAME?,(a) sr?va? (b) N?r vari (c) Dam‘a,
+SK6E,#NAME?,(a) pak?makopa? (b) Mu?a mayir (c) Sha‘r Munqalib (a) Pak?moparodha?,
+SK6F,#NAME?,(a) vartm?rbuda? (b) Tacai ka?alai (c) Uqda al-‘Ayn (c) Uqda’-i-Jafn,
+SK6G,#NAME?,(a) ?u?k?r?a? (c) Tah?ajjur al-Ajf?n (b) Imai ta?ippu,
+SK6H,#NAME?,(a) vartmagata-rakt?r?a? (c) Tha’?l?l al-Ajf?n,
+SK6J,#NAME?,(a) nime?a? (c) ?arf al-Ajf?n (b) Avik?ya vira?am,
+SK6K,#NAME?,(a) ?y?vavartma (b) Irattakka?alai,
+SK6L,#NAME?,(a) k?cchronm?la? (b) Vi?i vali (c) Istirkh?’ al-Jafn,
+SK6M,#NAME?,(a) ?li??a-vartma (c) Iltis??q al-Jafn (b) Kuva?ai nerital,
+SK6N,#NAME?,(a) laga?a? (c) Barada (b) Tacai ka?alai,
+SK6P,#NAME?,(a) añjanan?mik? (b) N?r pa?pa r?kam (c) Sha‘?ra,
+SK6Q,#NAME?,(a) pak?ma??ta? (b) Iratta Ka?alai (c) Intith?r al-Ahd?b,
+SK6R,#NAME?,(a) a?ophap?ka? (c) Intif?kh R?h?? (b) Uruvi?i pu?aittal,
+SK6S,#NAME?,(a) netraja-ar?a? (b) Vira?ap paru,
+SK6T,#NAME?,(a) sir?japi?ak? (c) Ramad Buth?r? (a) sir?pi?ak? (c) Wadaqa (b) Parumu?ai,
+SK6U,#NAME?,(a) pothak? (b) Kuva?aipa?uva? (c) Jarab al-‘Ayn,
+SK6V,#NAME?,(a) avra?a?ukra? (b) Vira?a Cukkira? (c) Bay?? al-‘Ayn,
+SK6W,#NAME?,(a) sa?ophap?ka? (b) Mata?amant?ram (c) Ward?naj,
+SK6X,#NAME?,(a) hat?dhimantha? (c) Sill al-‘Ayn,
+SK7Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SK7Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SK80,#NAME?,(a) kar?a-vidradhi? (b) Cur??ita ceviva?i (c) Qur?? al-Udhun,
+SK81,#NAME?,(a) b?dhiryam (c) Waqr (b) Kar?ika ca??i,
+SK82,#NAME?,(a) kar?a-sr?va? (b) C?? cevi e?ucci (c) Sayal?n al-Udhun,
+SK83,#NAME?,(a) kar?a-ka??? (b) T?malk?tu karapp?? (c) ?ikka al-Udhun,
+SK84,#NAME?,(a) uccai??ruti? (c) Harb al-Udhun,
+SK85,#NAME?,(a) kar?a-g?thaka? (c) Wasakh al-Udhun,
+SK86,#NAME?,(a) kar?a-n?da? (c) T?an?n-o-Daw? (a) a?abda?rava?am (b) Cevipa?uv?tam,
+SK87,#NAME?,(a) kar?a??la? (b) Kar??varttam n?kk??u (c) Waja‘ al-Udhun earache,
+SK88,#NAME?,(a) kar?a-?opha? (b) Cevivi?ai Val?i (c) Iltih?b al-Udhun (a) kar?a?otha?,
+SK89,#NAME?,(a) Parilehi (b) Kuruti cevi paru (c) Buth?r al-As?d?gh,
+SK8Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SK8Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SK90,#NAME?,(a) n?s?gata-raktapittam (c) Ru‘?f (b) Kuruti m?kka?aippu,
+SK91,#NAME?,(a) ghr??an??a? (b) V?ca?ai nilaiya?ital (c) Khasham,
+SK92,#NAME?,(a) pu?aka? (c) Jaf?f al-Anf (b) M?kku karapp??,
+SK93,#NAME?,(a) n?s??o?a? (c) Iltih?b al-Anf D?um?r?,
+SK94,#NAME?,(a) n?s?r?a? (b) M?kku Ka?alai (c) Baw?s?r al-Anf (c) Urbiy?n al-Anf,
+SK95,#NAME?,(a) prati?y?ya? (b) N?r m?kka?aippu (c) Iltih?b al-Anf (a) p?nasa?,
+SK96,#NAME?,(a) ghr??asr?va? (a) n?s?sr?va? (b) M?kku n?rpp?yccal (c) Nazla,
+SK97,#NAME?,(a) n?s?n?ha? (b) Ka?uttu m?kka?aippu (c) Sudda-i-Khaysh?m (a) prat?n?ha? (c) soddeh-ye khayshoum,
+SK98,#NAME?,(a) p?tin?s? (b) Cir?y m?kka?aippu (c) Bakhr al-Anf (c) Natn al-Anf,
+SK99,#NAME?,(b) M?kka?aippu n?y (c) Iltih?b-i-Taj?w?f al-Anf (a) ardha?vabhedaka,
+SK9A,#NAME?,(a) ka??ha??l?ka? (c) Iltih?b-i-Taj?w?f H?ulq?m? Anf?,
+SK9Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SK9Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SL00,#NAME?,(b) To??ai pu??u (a) gal?rbuda?,
+SL01,#NAME?,(a) ?ataghn? (c) Khur?j H?alaq? Khalf?,
+SL02,#NAME?,(a) ka??hodhva?sa? (b) Kural kammal (c) Bu??a al-?awt (c) Bu???a al-?awt,
+SL03,#NAME?,(a) svarabheda? (c) Khalal al-?awt,
+SL04,#NAME?,(a) rohi?? (b) Vara? ka?am (c) Khun?q Wab?’? (c) Waram al-H?anjara H??dd Ghish?’? Khun?q?,
+SL05,#NAME?,(a) bal?sa? (b) K?ca pittam (c) Waram-i-H?alq,
+SL06,#NAME?,(a) tu??iker? (c) Waram al-Lawzatayn (b) Ni?ak kural kammal,
+SL07,#NAME?,(a) m?katvam (c) Inqi??‘ al-?awt,
+SL08,#NAME?,(a) ga??am?l? (b) Ka??am?lai (c) Khan?z?r Scrofula,
+SL09,#NAME?,(b) Ka??a pittam (c) Waram al-H?anjara,
+SL0Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SL0Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SL20,#NAME?,"""(a) k?avathu? (c) ’ U??s"" (c) otAs (b) Cil???uma pittam",
+SL21,#NAME?,(a) minmina? (c) Khun?n (b) N?cik?p??am,
+SL2Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SL2Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SL40,#NAME?,"(a) tamaka?v?sa? (b) Iraippu n?y (c) D??q al-Nafas (b) iraippu irumal (c) Dama, (c) Nafas D?ayyiq, (c) rabw",
+SL41,#NAME?,(a) k?sa? (b) Irumal n?y (c) Su‘?l-o-Surfa,
+SL42,#NAME?,(a) ?v?sa? (b) Iraippu n?y (c) ’ Usr al-Tanaffus Breathlessness (TM2),
+SL4Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SL4Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SL60,#NAME?,(a) h?nmoha? (c) But??’ al-Qalb,
+SL61,#NAME?,(a) h?droga? (b) Tamaraka n?y (c) Amr??-i-Qalb wa Dawr?n-i-Kh?n,
+SL62,#NAME?,(a) h?ddrava? (b) Tu?i pittam (c) Khafaq?n (b) Naadi Padappu,
+SL6Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SL6Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SL70,#NAME?,(a) sir?granthi? (b) N??a vip?ta pu?aippu (c) Daw?l? (b) Naalavibatham,
+SL71,#NAME?,(a)sir?gatavra?a? (b) N??a vip?ta pu? (c) Qarh?a Daw?liyya (b) Naalavibatha viranam,
+SL72,#NAME?,(a) dhaman?praticaya? (b) Vacu v?tam (c) Tasaddud Shah?m? Kils?,
+SL7Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SL7Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SL80,#NAME?,(a) p???uroga? (b) Ve?uppu n?y (c) Faqr al-Dam (b) Veluppu Noi,
+SL81,#NAME?,(a) raktapittam (b) Iratta pittam (c) Qatma,
+SL8Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SL8Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SM00,#NAME?,(a) apac? (b) Akku? nilapp?ca?i ka??i,
+SM01,#NAME?,(a) ?l?pada? (b) Y??aikk?l (c) D?’ al-F?l Filariasis (TM2),
+SM0Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SM0Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SM10,#NAME?,(a) ?syavip?ka? (b) Akkaram (c) Qul?‘ (a) mukhp?ka? (c) qorheh-ye dahAn,
+SM11,#NAME?,(a) dantavidradhi? (b) Palla?i Ka??i (c) F?r?las,
+SM12,#NAME?,(a) dantagh?ta? (c) S?ar?r al-Asn?n,
+SM13,#NAME?,(a) dantave??aka? (c) Taqayyuh? al-Litha (b) Pall???am,
+SM14,#NAME?,(a) upaku?a? (b) Palla?i V?kkam (c) Waram al-Litha,
+SM15,#NAME?,(a) p?timukhat? (b) N?????am (c) Bakhr al-Fam,
+SM16,#NAME?,(a) mukhasr?va? (b) Aiyam mikutiyu?a? v?yu c?rnt?l u???kum ku?iku?a?ka?. (c) Kathra al-Lu‘?b (a) praseka (c) sayalAn-e ab dahAn,
+SM17,#NAME?,(a) adhru?a? (c) Waram al-H?anak (b) A???kkutt??u t?pitam,
+SM18,#NAME?,(a) gala?u??ik? (c) Waram-i-Lah?t (b) U? n?kku va?arcci,
+SM19,#NAME?,(a) galagraha? (c) Khun?q,
+SM1A,#NAME?,Tooth ache (a) dantabheda? (a) d?lana? (b) Pal kuttal (c) Waja‘ al-Asn?n,
+SM1B,#NAME?,(a) paridara? (b) Palla?i Kotippu (c) Litha D?miya,
+SM1C,#NAME?,(a) upajihvik? (c) D?ifda‘ al-Lis?n (b) N?kkara?ai,
+SM1D,#NAME?,(a) p????agardabha? (c) Waram As?l al-Udhun Mumps (TM2),
+SM1E,#NAME?,(a) k?midantaka? (b) Pal pu?u (c) Ta’akkul al-Asn?n,
+SM1F,#NAME?,(a) danta?arkar? (b) Palla?i mañca??tal (c) D?’ al-H?afr (c) H?afr al-Asn?n wa’l Qalh?,
+SM1G,#NAME?,(a) ?y?vadantaka? (b) Pal karuttal (c) Taghayyur Lawn al-Asn?n,
+SM1H,#NAME?,(a) dantac?la? (b) Pall???am (c) Tah?arruk al-Asn?n,
+SM1J,#NAME?,(a) dantahar?a? (b) Pal k?ccam (c) Dhah?b M?’ al-Asn?n,
+SM1K,#NAME?,(a) pittaja-???haprak?pa? (b) Ve?ippu uta?u n?y (c) Taqashshur al-Shafatayn (b) Va?iyuta?u n?y,
+SM1L,#NAME?,(a) kaphaja-???haprak?pa? (b) Mi?umi?uppu uta?u n?y,
+SM1M,#NAME?,(c) Shaq?q al-Shafatayn (c) jefAf-e lab (c) taqashor-e lab (a) v?taja-o??haprakopa? (b) Val?i Uta?uno?y (c) Tashaqquq al-Shafatayn,
+SM1N,#NAME?,(a) mukha?o?a? (b) N?li Akkaram (c) Jaf?f-i-Lis?n,
+SM1P,#NAME?,(a) arasajñat? (b) Cuvaiyi?mai n?y (c) But?l?n al-Dhawq,
+SM1Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SM1Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SM30,#NAME?,(b) Kuruti v?nti (c) Qay’ al-Dam,
+SM31,#NAME?,(a) ?dhm?nam (b) Mantam (c) Nafkh al-Mi‘da,
+SM32,#NAME?,"(a) udara (b) Peruvayi?u n?y (c) Istisq?’ Ziqq? (a) udararoga?, (a) jalodara?",
+SM33,#NAME?,(a) ??la? (b) Vayi??u Va?i (c) Waja‘ al-Mi‘da (b) C?lai n?y,
+SM34,#NAME?,(a) vibandha (b) Malakka??u (c) Qabd? (b) Malakka??u (c) I‘tiq?l al-Bat?n / H?us?r / Ih?tib?s al-Bat?n / Ih?tib?s al-T?ab?‘a / I‘tiq?l al-T?ab?‘a / Ims?k al-Bat?n (a) malavibandha,
+SM35,#NAME?,(a) ud?varta? (b) Calastampa v?tam (c) Q?lanj Iltiw?’?,
+SM36,#NAME?,(a) graha?? (b) Ni?ak ka?iccal (c) Dharab-o-Khilfa Sprue (TM2),
+SM37,#NAME?,(a) atis?ra? (b) Peru? ka?iccal (c) Ish?l,
+SM38,#NAME?,(a) prav?hik? (b) Ni?ak ka?iccal (c) Zah??r,
+SM39,#NAME?,(a) amlapittam (b) Cavvira?ka v?tam (c) Fas?d al-Had?m (c) S?’ al-Had?m,
+SM3A,#NAME?,(b) Va??i pittam (c) H?urqa al-Mi‘da (c) laz'e me'deh,
+SM3B,#NAME?,(a) aj?r?am (b) Ceriy?mai (c) D?u‘f al-Had?m,
+SM3C,#NAME?,(a) alasaka (b) M?nta n?y (c) Tukhma Food stasis (TM2),
+SM3D,#NAME?,(a) pari??ma??la? (b) Va?i ku?mam,
+SM3E,#NAME?,(a) annadrava??la? (b) Eri ku?mam (c) Qarh?a wa Buth?r al-Mi‘da (c) qrwh me'deh,
+SM3F,#NAME?,(a) v?tapaittika??la? (b) A?al ku?mam (c) Waram al-Mi‘da,
+SM3G,#NAME?,(a) antra-v?ddhi? (b) Ku?al v?tam (c) Fatq,
+SM3H,#NAME?,(a) utkle?a? (c) Ghathay?n (b) Manta aiya n?y,
+SM3J,#NAME?,(a) v?taja-chardi? (b) Val?i V?nti (c) Tahawwu‘,
+SM3K,#NAME?,(a) gulma? (b) Ku?mam,
+SM3L,#NAME?,,"Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+SM3Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SM3Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SM40,#NAME?,(a) yakr?jjavidradhi? (b) Kall?ral Ka??i (c) Dubayla al-Kabid (c) Dubayla-i-Jigar,
+SM41,#NAME?,(a) k?mal? (b) Mañca? n?y (c) Yarq?n As?far,
+SM42,#NAME?,(a) yak?dd?lyudara? (b) Val?i Kall?ral No?y (c) ‘Iz?am al-Kabid,
+SM43,#NAME?,(c) Waram al-Kabid (b) A?c?pakav?tam,
+SM44,#NAME?,(a) pl?havruddhi (b) Mukku??a Ma???ral No?y (c) Iz?am al-T?ih??l (a) pl?haroga? (b) Pil?kavirutti,
+SM4Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SM4Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SM50,#NAME?,(a) gud?rti? (b) P?cuv?tam,
+SM51,#NAME?,(a) parikartik? (c) Shuq?q al-Maq‘ad (b) Ka?almu?ai n?y,
+SM52,#NAME?,(a) bhagandara? (b) Pavuttiram (c) Naw?s??r N?fidha,
+SM53,#NAME?,(a) ar?a? (b) Eruv?y mu?ai n?y (c) Baw?s?r Piles (TM2),
+SM54,#NAME?,(a) gudap?ka? (c) Waram al-Maq‘ad (a) gudaku??anam (b) A?al mu?ai,
+SM55,#NAME?,(a) gudabhra??a? (b) Vir?ki A?itta??al (c) Khur?j al-Maq‘ad (c) Khur?j al-Mabraz,
+SM56,#NAME?,(a) gudajavidradhi (b) Eruv?ykka??i (c) Naw?s??r Ghayr N?fidha,
+SM5Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SM5Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SM70,#NAME?,(a) p?r?varuja? (b) ?ma c?lai (c) Sh?s?a (a) p?r?va??la?,
+SM71,#NAME?,(a) arocaka? (c) But?l?n al-Ishtih?’ (c) D?u‘f al-Ishtih?’ (b) Ma?a cuvaiyi?mai n?y,
+SM72,#NAME?,(a) raktaja-prav?hik? (b) Mirut v?tam (c) Sah?j wa Qur?h? al-Am‘?’,
+SM73,#NAME?,(a) k??r?lasaka? (b) M?ntam (c) Maghs? al-At?f?l,
+SM74,#NAME?,(a) hikk? (b) Vikkal n?y (c) Fuw?q,
+SM75,#NAME?,"(a) ?rdhvav?ta? (b) Ku?a?pi?ippu n?y, ?n?ka n?y (c) ?l?’?s",
+SM76,#NAME?,(a) vis?cik? (b) ??i n?y (c) Hayd?a,
+SM7Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SM7Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SM80,#NAME?,(a) vr?kkajavidradhi? (b) M?ttiran?l?akka??i (c) Dubayla al-Kulya,
+SM81,#NAME?,(a) m?tranigraha? (b) N?rkka??u (c) Ih?tib?s al-Bawl,
+SM82,#NAME?,(a) m?tr?gh?ta? (b) N?ra?aippu (c) D?u‘f al-Math?na,
+SM83,#NAME?,(a) t?n? (b) A?al n?rccurukku (c) Q?lanj Kulw?,
+SM84,#NAME?,(b) N?rkka??u (c) Waram al-Kulya,
+SM85,#NAME?,(b) Aiya N?rccurukku (c) Waram al-Math?na,
+SM86,#NAME?,(b) Ci?un?r p?taiyi? k?ya?ka? (c) Qur?h? al-Math?na,
+SM87,#NAME?,(a) m?trak?cchram (b) N?rccurukku (c) ‘Usr al-Bawl,
+SM88,#NAME?,(a) v?taku??alik? (b) Co??u n?r (c) Taqt??r al-Bawl,
+SM89,#NAME?,(a) m?traukas?da? (c) Bawl Ghal??,
+SM8A,#NAME?,(a) lohitameha? (b) A?al N?rccurukku (c) Bawl al-Dam,
+SM8B,#NAME?,(a) v?tabasti? (b) Ci?un?ri? m??utalka? (c) Salas al-Bawl,
+SM8C,#NAME?,(a) a?mar? (b) Kalla?aippu (c) H?as?? wa Raml al-Kulya,
+SM8D,#NAME?,(a) prameha? (b) N?ri?aipperukkal n?yka? (c) Kathra al-Bawl,
+SM8E,#NAME?,(a) m?trasa?k?aya? Anuria (TM2) (c) Qilla al-Bawl,
+SM8Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SM8Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SM90,#NAME?,(a) arajask? (b) Kukara?a mey c?takata?ai (c) Ih?tib?s al-Tamth (a) rajon??a? / nas?t?a?rtava / ana?rtava,
+SM91,#NAME?,(a) kar?in? (b) Karuppaik ka?untu u?pu?a a?a?ci,
+SM92,- - - - - Bartholin's cyst disorder (TM2),(a) yonikanda? (b) Surappikallutaiya Athaippu,
+SM93,#NAME?,(a) ?vetapradara? (b) Ve??ai n?y (c) Sayal?n al-Rah?im,
+SM94,#NAME?,(a) vandhy? (b) Pe? mala?u (c) ‘Uqr,
+SM95,#NAME?,(a) pariplut? (b) Y??i t?pitam,
+SM96,#NAME?,(a) ud?vartin? (b) C?taka Va?i (c) ‘Usr al-Tamth (a) Kashtartawa,
+SM97,#NAME?,(a) lohitak?ay? (c) Qillat-i-Tamth,
+SM98,#NAME?,(a) as?gdara? (b) Ac?t?ra?a perump??u (c) Kathrat-i-H?ayd? (c) kethrat-e tamth (a) Raktapradar,
+SM99,#NAME?,(a) yoni-ar?a? (b) Karuppai k?mpu ka?alai (c) Baw?s?r al-Rah?im,
+SM9A,#NAME?,(a) mah?yoni? (b) Karuppai a?itta??al (c) Inzil?q al-Rah?im (a) viv?t? (c) Nut?’ al-Ra?im,
+SM9B,#NAME?,(a) viplut? (b) C?lai Yo??i,
+SM9C,#NAME?,(a) makkalla? (b) Karuppai u?kavaca t?pitam (c) Waram al-Rah?im,
+SM9Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SM9Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SN00,#NAME?,(a) me?hrap?ka? (b) Aiya Kalla?aippu (c) Waram al-Qad??b inflammation of the penis,
+SN01,#NAME?,(a) v?ddhi? (b) Tantira ve??i v?tam (c) Q?la M?’iyya,
+SN02,#NAME?,(a) klaibyam (b) V?riyami?mai (c) Istirkh?’ al-Qad??b,
+SN03,#NAME?,(a) ?ukrak?aya? (b) ?? mala?u (c) Qilla al-Man?,
+SN04,#NAME?,(a) sar?apik? (b) Ka?uku koppu?am,
+SN05,#NAME?,(b) P?jastampa v?tam (c) Waram al-Khus?yatayn (c) Waram al- Unthayayn,
+SN06,#NAME?,(a) me?hraja-ar?a? (b) T?maraikk?ytta?ippu (c) Tha’?l?l al-Dhakar,
+SN07,#NAME?,(a) ?ephastambha? (c) Far?sm?s (c) Ifr?t? al-Nu‘?z? (b) Timirkku?ippu?,
+SN08,#NAME?,(a) v?t???h?l? (c) Iz?am-i-Ghudda'-i-Madh? Benign enlargement of the prostate (TM2) (b) Cataiya?aippu,
+SN09,#NAME?,(a) m?tra?ukra? (b) Ve???r (c) Jaray?n (b) tava?a n?r,
+SN0A,#NAME?,(a) niruddhapraka?a? (b) T?l ta?aippu?,
+SN0Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SN0Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SN10,#NAME?,(a) stanyak?aya? (c) Qilla al-Laban,
+SN11,#NAME?,(a) stanyadu??i? (b) P?l etire?uttal,
+SN12,#NAME?,(a) j?taghn? (b) Ku?a avat??akam (c) Isq?t? ‘?d?,
+SN1Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SN1Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SN30,#NAME?,"(a) upada??a? (b) Korukku n?y (c) Soz?k (c) Sayal?n Zuhr?, (c) H?urqa, (c) Al-Nak?l, (c) ‘Uq?ba",
+SN31,#NAME?,"(a) phira?garoga (b) Ve??ai n?y (c) ?tshak (c) ?bla Farang, (c) D?arma, (c) S?‘?r, (c) Al-Afranj? (c) B?d Farang, (c) Al-Khaj?l, (c) Qarh?a S?ulba, (c) Koft",
+SN3Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SN3Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SN40,#NAME?,(a) rakas? (b) Karapp?? pittam,
+SN41,#NAME?,(a) k?r??yam (b) Valli Nhooyaallar Utal Nhirram (c) Fas?d al-Lawn,
+SN42,#NAME?,(a) rauk?yam (b) T?l va?a?ci (c) Shuq?q al-At?r?f wa’l Wajh,
+SN43,#NAME?,"(a) vicarcik? (b) V?tak karapp?? (c) N?r F?rs? (c) Ch?jan, (c) Ukauta",
+SN44,#NAME?,(a) a?ga-durgandha? (c) ‘Araq Muntin,
+SN45,#NAME?,(a) svedav?ddhi? (b) Ativiyarvai (c) Kathra al-‘Araq (a) atisveda? (c) Ifr?? al-‘Araq,
+SN46,#NAME?,(a) p?m? (kacch?) (b) Co?i cira?ku (c) Jarab,
+SN47,#NAME?,(a) sn?yukaroga? (c) ‘Irq Mad?n? (b) Kurutippu?,
+SN48,#NAME?,(a) alasa? (c) Mazah? (b) C???up pu?,
+SN49,#NAME?,(a) dh?tugataku??ha? (b) Cira?kup perun?y (c) Judh?m (b) P?ma ku??am (c) Al-‘Illa al-Kubr?,
+SN4A,#NAME?,(a) sidhma? (b) K???ñcakappa?ai (c) Taqashshur al-Jild,
+SN4B,#NAME?,(a) ekaku??ha? (c) Q?b? Mutaqashshir (b) Va?a?cik karapp??,
+SN4C,#NAME?,(a) ke?abh?misphu?anam (c) Qush?r al-Jabha (b) Ve? karapp??,
+SN4D,#NAME?,Leucoderma (TM2) (a) ?vitra? (b) Ve?pu??i (c) Baras?,
+SN4E,#NAME?,,"Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+SN4F,#NAME?,(a) jatuma?i? (c) Namash,
+SN4G,#NAME?,(a) vya?ga? (c) Kalaf (b) Kap?la karu?ku??am,
+SN4H,#NAME?,(a) ma?aka? (b) Maccam (c) Kh?l?n,
+SN4J,#NAME?,(a) k?ka?aka? (b) Karu perun?y,
+SN4K,#NAME?,(a) ??tapittam (b) K???kka?i (c) Shar?,
+SN4L,#NAME?,(a) ko?ha? (b) T?lta?ippu (c) Shar? Damaw?,
+SN4M,#NAME?,(b) Koppu?am (c) Dummal,
+SN4N,#NAME?,(a) r?jik? (b) V?rkkuru (c) Buth?r Shawkiyya (c) H?as?af,
+SN4P,#NAME?,(a) vispho?aka? (b) Koppu?a perun?y (c) Naff?t??t,
+SN4Q,#NAME?,(b) Ta?umpu (c) ?th?r al-Qur?h? (c) athar-e jeld,
+SN4R,#NAME?,(a) p?ru?yam (b) V?kkam (c) Taqashshuf al-Jild (b) ta?ippu,
+SN4S,#NAME?,(a) carmak?la? (b) Maru? (c) Tha’?l?l Warts (TM2),
+SN4T,#NAME?,(a) kak??? (b) Akki (c) Namla (c) S?‘iya,
+SN4U,#NAME?,(a) dadru-ku??ha? (b) Pa?art?marai (c) Q?b?,
+SN4V,#NAME?,"(a) yuv?napi?ak? (b) Mukapparu (c) Buth?r Labaniyya (c) H?abb al-Shab?b, (c) Buth?r Duhniyya, (c) Al-Ghudd al-Sh?’i‘",
+SN4W,#NAME?,(a) vra?a? (b) Pu? (c) Jur?h?,
+SN5Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SN5Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SN60,#NAME?,(a) nakhabheda? (c) Z?ufra T?alqiyya,
+SN6Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SN6Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SN70,#NAME?,(a) ar???ik? (b) A?al kap?lak karapp??,
+SN71,#NAME?,(a) kh?lityam (b) Mayir utiral (c) S?ala‘,
+SN72,#NAME?,(a) ar???ik? (c) Sa‘fa,
+SN73,#NAME?,(a) ak?lapalita? (b) I?anarai (c) Shayb,
+SN7Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SN7Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SN90,#NAME?,(a) indralupta? (b) Pu?uve??u (c) D?’ al-Tha‘lab Alopecia areata/Pelade,
+SN91,#NAME?,"(c) Baf? , (c) Hubayr? , (c) Qishr al-Ra’s , (c) H?ibriyya (a) d?ru?aka? (b) Po?uku, (b) Cu??u (c) H?az?z-o-Ibriyya",
+SN92,#NAME?,(a) pi?ak? (b) Pi?avai (c) Jamra (c) Shab Chir?gh,
+SN9Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SN9Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SP00,#NAME?,"(a) asthi?o?a? (c) Wahn al-‘Iz??m (c) Takhalkhul al-‘Iz??m, (b) Takhaththur al-‘Iz??m Osteopenia (TM2) (b) E?pu kiranti",
+SP0Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SP0Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SP10,#NAME?,(b) Cantu v?tam (c) waram-e mafsal (a) v?taraktam (b) V?tacur??itam (c) Waja‘ al-Maf?s?il,
+SP11,#NAME?,(a) ?mav?ta? (b) Va?ikk?lv?yu (c) H?ud?r,
+SP12,#NAME?,(a) sandhigatav?ta? (b) A?al k?l v?yu (c) Tah?ajjur wa S?al?ba al-Maf?s?il,
+SP13,#NAME?,(a) ?ro?ibheda? (b) To?ai maiya varmam (c) Waja‘ al-Warik,
+SP14,#NAME?,(a) pittaja-v?taraktam (b) V?takar?a?am (c) Niqris,
+SP15,#NAME?,(a) avab?huka? (b) Kumpa v?tam (c) Waja‘-i-Maf?al-i-Katif,
+SP1Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SP1Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SP20,#NAME?,(a) khall? (b) Va?i c?lai (c) Tashannuj ?dh?’? twisting-pain on limbs,
+SP21,#NAME?,(a) a?gavibhra??a? (c) Istirkh?’ (b) Miruttu v?tam,
+SP2Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SP2Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SP40,#NAME?,(a) v?taka??akam (c) Waja‘ al-‘Aqib (b) Kutiv?tam,
+SP41,#NAME?,(a) g?dhras? (c) ‘Irq al-Nas? Lumbar radiculopathies (b) V?tastampam,
+SP42,#NAME?,"(a) p???ha-graha? (b) Ta??aka v?tam (c) Waja‘ al-Z?ahr Stiff back (TM2), Backache (TM2) (a) kat?is?u?la (a) Kat?igraha",
+SP43,#NAME?,(b) V?tastampam (c) Waja‘ al-Kh?s?ira,
+SP44,#NAME?,(a) many?stambha? (b) Pu?a Icivu,
+SP45,#NAME?,(a) gr?v?stambha? (b) Caka?a V?tam (c) Waja‘ al-‘Unuq,
+SP4Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SP4Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SP50,#NAME?,(b) V?takapa curam (c) H?umm? Mi‘wiyya,
+SP51,#NAME?,(a) jvara (b) Ta?va?i curam (c) H?umm?,
+SP52,#NAME?,(a) kaphajajvara? (b) Kapa curam (c) H?umm? Lathiqa (c) H?umm? Balghamiyya L?zima,
+SP53,#NAME?,(a) paittikajvara? (b) Pitta curam (c) H?umm? al-Ghibb (c) T?rat??’?s,
+SP54,#NAME?,(a) v?tikajvara? (b) V?ta curam,
+SP55,#NAME?,"(b) Na?ir curam , (b) Ku?ir curam (c) H?umm? al-Ghibb D?’ira",
+SP56,#NAME?,(b) Ce?ka?aic curam (c) H?umm? ‘Uf?niyya,
+SP57,#NAME?,(a) vi?amajvara? (b) Vi??uvarum curam (c) H?umm? D?’ira,
+SP58,#NAME?,(c) H?umm? L?zima (a) santata (c) H?umm? D?’ima (b) Vi??ccuram,
+SP59,#NAME?,(a) ?gantujvara? (b) Pi?ava?i curam (c) H?umm? al-Yawm,
+SP5A,#NAME?,(a) vra?a?opha? (b) A?ipa??a v?kka (c) Waram M?dd?,
+SP5B,#NAME?,(a) r?jayak?m? (b) I?aippu n?y (c) H?umm? Diqqiyya (c) Diqq,
+SP5Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SP5Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SP60,#NAME?,"(a) madhumeha? (b) N?ri?ivu (c) Dhay?b?t?us (a) k?audrameha? (b) i?ippu ma?a n?r , (b) N?ri?ivu (c) D?l?biya , (c) Mu‘at?t?isha , (c) Daww?riyya , (c) Park?riyya",
+SP61,#NAME?,(a) k?r?yam (b) Asvatampa v?tam (c) Huz?l,
+SP62,#NAME?,(a) medov?ddhi? (b) Miku ko?uppu n?y,
+SP63,#NAME?,(a) t???? (b) N?r v??kai n?y (c) ‘At?sh Mufrit?,
+SP64,#NAME?,(a) medoroga? / atisthaulyam (b) Atit?la n?y (c) Siman Mufrit?,
+SP6Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SP6Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SP70,#NAME?,(a) medojagranthi (b) Ko?uppu ka?alai (c) Sal‘a Shah?miyya,
+SP71,#NAME?,(a) granthi (b) Na?ma?avaikka??ika? (c) Sal‘?t,
+SP72,#NAME?,(a) arbuda? (b) Vippuruti (c) Sarat?an (b) Pu??u n?yka?,
+SP7Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SP7Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SP90,#NAME?,(a) vidradhi? (b) Ka??i (c) Khur?j (c) Dubayla,
+SP91,#NAME?,(a) sarvasara-??tha? (b) C?kai (c) Istisq?’ Lah?m? Anasarca (b) ?tal n?y,
+SP92,#NAME?,"(a) ?vayathu?, ?otha? (c) ?dh?ma (b) Va?iaiya n?y",
+SP93,#NAME?,(a) ojovai?amyam (b) Iya?kai va?mai ku?aivu (c) ?u‘f-i-?ar?rat Ghar?ziyya,
+SP94,#NAME?,"(a) ?opha?, (b) T?pitam, (c) Waram",
+SP95,#NAME?,(a) jr?mbh? (b) Ko???vi (c) Kathra al-Tath?’ub,
+SP96,#NAME?,(a) ?lasyam (c) Law?-o-Fayh?adhaj,
+SP97,#NAME?,(a) klama? (b) A?al c?lai,
+SP98,#NAME?,(a) m?rcch? (b) M?rccai (c) Ghash?,
+SP99,#NAME?,(a) ka???? (b) Pitta Vi?ap?kam (c) H?ikka,
+SP9A,#NAME?,(a) daurbalyam (b) T?ka va?mai ku?aivu (c) ?u‘f-i-‘?m,
+SP9Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SP9Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SQ00,#NAME?,(a) atipral?pa? (b) Ca??i n?y (c) Hadhay?n (a) pral?paka?,
+SQ01,#NAME?,(a) buddhisa?m?ha? (b) Piramai (c) khiyAlAt-e bAteleh,
+SQ02,#NAME?,(b) C?tik?v?tam (c) Ikhtin?q al-Rah?im,
+SQ03,#NAME?,(a) unm?da? (b) U?matam (c) Jun?n (b) Ve?i (c) Wasw?s (c) waswAs-e sowdAwi,
+SQ04,#NAME?,(a) kaphaja-unm?da? (b) U?m?ta pittam (c) M?lankh?liy?,
+SQ05,#NAME?,(a) anavasthitacittatvam (c) Ikhtl?t? al-Dhahn (c) ekhtelAt-e zehn,
+SQ0Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SQ0Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SQ10,#NAME?,(a) mana-sant?pa? (b) Paya Curam (c) H?umm? al-Yawm Fikriyya,
+SQ1Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SQ1Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SQ20,#NAME?,(a) mad?tyaya? (b) Ku?i ve?i n?y (c) Kathrat-i-Shar?b Nosh? (a) p?n?tyaya?,
+SQ21,#NAME?,(b) Cerukku n?y (c) Ru‘?nat,
+SQ22,#NAME?,(a) mada? (b) Matam,
+SQ23,#NAME?,(b) Mayakka n?y (c) Ghash? Nafs?n? (c) Ghash? Az ‘Aw?ri? Nafs?n?,
+SQ24,#NAME?,(a) nidr?n??a? (b) U?akkami?mai (c) Sahar (a) asvapna?,
+SQ2Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SQ2Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SQ40,#NAME?,(a) nidr?dhikyam (c) Sub?t (c) sobAt (b) V?ta piramai,
+SQ41,#NAME?,"(a) pittaja-unm?da? (b) Ac?ttiya pittam (c) Qut?rub (c) ‘Illa al-Dhi’b, (c) Jun?n Dhi’b?",
+SQ4Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SQ4Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SQ50,#NAME?,(a) k?mi? (b) Pu?u n?yka? (c) D?d?n al-Am‘?’ (a) sañj?tak?mi,
+SQ5Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SQ5Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SQ60,#NAME?,(a) ?a?khavi?a? (b) Vi?app?ka r?kam,
+SQ61,#NAME?,(a) garavi?a? (b) I?umaruntu nañcu,
+SQ6Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SQ6Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SQ80,#NAME?,(a) h?nam?tr?h?ra? (b) ???accattu ku?aip??u n?yka?,
+SQ8Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SQ8Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SR00,#NAME?,(a) kum?ra?o?a? (b) Vara? ka?am,
+SR01,#NAME?,(a) ?ayy?m?tratvam (c) Bawl fi’l Far?sh (b) Palarco??un?r,
+SR02,#NAME?,(b) M?ntak ka?iccal (c) Zah??r al-At?f?l,
+SR03,#NAME?,(a) Skanda Apasmara (b) K?kkai Va?ippu (c) S?ar‘ al-At?f?l,
+SR04,#NAME?,(a) kuk??aka? (b) Amaram,
+SR05,#NAME?,(a) p?rigarbhika? (b) N?r?makka?am Protein energy malnutrition,
+SR06,#NAME?,(b) Kumari akkaram (c) Qul?‘-i-?iby?n,
+SR0Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SR0Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SR10,#NAME?,(a) v?taprakopa?,
+SR11,#NAME?,(a) v?tasañcaya?,
+SR12,#NAME?,(a) v?tav?ddhi? Increased v?ta (TM2),
+SR13,#NAME?,(a) v?taprasara?,
+SR14,#NAME?,(a) v?tak?aya?,
+SR15,#NAME?,(a) pittaprakopa?,
+SR16,#NAME?,(a) pittasañcaya?,
+SR17,#NAME?,(a) pittav?ddhi? Increased pitta (TM2),
+SR18,#NAME?,(a) pittaprasara?,
+SR19,#NAME?,pittak?aya?,
+SR1A,#NAME?,(a) kaphaprakopa?,
+SR1B,#NAME?,(a) kaphasañcaya?,
+SR1C,#NAME?,(a) kaphav?ddhi? Increased kapha (TM2),
+SR1D,#NAME?,(a) kaphaprasara?,
+SR1E,#NAME?,(a) kaphak?aya?,
+SR1F,#NAME?,(b) Va?i miku ku?am,
+SR1G,#NAME?,(b) A?al mikuku?am,
+SR1H,#NAME?,(b) Aiyam mikuku?am,
+SR1J,#NAME?,(b) Va?i ku?ai ku?am,
+SR1K,#NAME?,(b) A?al ku?aiku?am,
+SR1L,#NAME?,(b) Aiyam ku?aiku?am,
+SR1M,#NAME?,(c) Ghalaba’-i-Dam,
+SR1N,- - - - Predominance of ?afr?’ pattern (TM2),(c) Ghalaba’-i-?afr?’,
+SR1P,#NAME?,(c) Ghalaba’-i-Balgham,
+SR1Q,#NAME?,(c) Ghalaba’-i-Sawd?’,
+SR1R,#NAME?,(c) ghelzat-e khoon (c) Ghil?a al-Dam,
+SR1S,#NAME?,(c) reqqat-e khoon (c) Riqqa al-Dam,
+SR1T,#NAME?,(c) qellat-e khoon (c) Qilla al-Dam,
+SR1U,#NAME?,(c) lozoujat-e khoon (c) Luz?ja al-Dam,
+SR1V,#NAME?,(c) fesAd-e khelt (c) Fas?d-i-Khil?,
+SR1W,#NAME?,(c) ehterAq-e khelt (c) I?tir?q-i-Khil?,
+SR1X,#NAME?,(c) ghelzat-e khelt (c) Ghil?a al-Khil?,
+SR20,#NAME?,(a) ?vara?a,
+SR2Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SR2Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SR40,- - - - Vitiation of 'primary structural components of the body' pattern (TM2),dh?tuvai?amyam,
+SR41,#NAME?,(a) rasav?ddhi? (b) C?ram mikuku?am Increase in Chyle (TM2),
+SR42,#NAME?,(a) rasak?aya? (b) C?ram ku?aiku?am Decrease in chyle (TM2),
+SR43,#NAME?,(a) raktav?ddhi? (b) Cenn?r mikuku?am,
+SR44,#NAME?,(a) raktak?aya? (b) Cenn?r ku?aiku?am,
+SR45,#NAME?,(a) m??sav?ddhi? (b) ?? mikuku?am,
+SR46,#NAME?,(a) m??sak?aya? (b) ?? ku?aiku?am,
+SR47,#NAME?,(a) medov?ddhi? (b) Ko?uppu mikuku?am,
+SR48,#NAME?,(a) meda?k?aya? (b) Ko?uppu ku?aiku?am,
+SR49,#NAME?,(a) asthiv?ddhi? (b) E?pu miku ku?am,
+SR4A,#NAME?,(a) asthik?aya? (b) E?pu ku?ai ku?am,
+SR4B,#NAME?,(a) majj?v?ddhi? (b) M??ai miku ku?am,
+SR4C,#NAME?,(a) majj?k?aya? (b) M??ai ku?ai ku?am,
+SR4D,#NAME?,(a) ?ukrav?ddhi? (b) Ve???r mikuku?am (a) ?ukr?dhikyam,
+SR4E,#NAME?,(a) ?ukrak?aya? (b) Ve???r ku?aiku?am,
+SR4F,#NAME?,(a) oja?k?aya?,
+SR4G,#NAME?,(a) ojovy?pat,
+SR4H,#NAME?,(a) ojovisra?sa?,
+SR4J,#NAME?,(a) ?rtavav?ddhi?,
+SR4K,#NAME?,(a) ?rtavak?aya? Hypomenorrhoea (TM2),
+SR4L,#NAME?,(a) stanyav?ddhi?,
+SR4M,#NAME?,(a) stanyak?aya?,
+,#NAME?,,Skipped: Invalid or empty code
+SR50,#NAME?,(a) rasavahasrotodu??i?,
+SR51,#NAME?,(a) raktavahasrotodu??i?,
+SR52,#NAME?,(a) m??savahasrotodu??i?,
+SR53,#NAME?,(a) medovahasrotodu??i?,
+SR54,#NAME?,(a) asthivahasrotodu??i?,
+SR55,#NAME?,(a) majj?vahasrotodu??i?,
+SR56,#NAME?,(a) ?ukravahasrotodu??i?,
+SR57,#NAME?,(a) pr??avahasrotodu??i?,
+SR58,#NAME?,"(a) ambuvahasrotodu??i?, (a) udakavahasrotodu??i?",
+SR59,#NAME?,(a) annavahasrotodu??i?,
+SR5A,#NAME?,(a) pur??avahasrotodu??i?,
+SR5B,#NAME?,(a) m?travahasrotodu??i?,
+SR5C,#NAME?,(a) svedavahasrotodu??i?,
+SR5D,#NAME?,(a) stanyavahasrotodu??i?,
+SR5E,#NAME?,(a) manovahasrotodu??i?,
+SR5Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SR5Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SR60,#NAME?,(b) Cur??itam mikuku?am,
+SR61,#NAME?,(b) Cur??itam ku?aiku?am,
+SR62,#NAME?,(c) Amr??-i-‘Adad,
+SR63,#NAME?,(c) Amr?? al-Wa?‘,
+SR64,#NAME?,(c) Amr??-i- Mush?rakat,
+SR65,#NAME?,(c) Tafarruq al-Itti??l,
+SR66,#NAME?,(c) maraz-e nAshi az rih (c) Mara? N?sh? az R??,
+SR67,#NAME?,(c) maraz-e nAshi az abkhareh (c) Mara? N?sh? az Bukh?r?t,
+SR68,#NAME?,(c) Amr?? Murakkaba,
+SR69,#NAME?,(c) maraz-e kamm (c) Amr??-i-Miqd?r,
+SR6Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SR6Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SR80,#NAME?,(a) pur??av?ddhi?,
+SR81,#NAME?,(a) pur??ak?aya?,
+SR82,#NAME?,(a) m?trav?ddhi?,
+SR83,#NAME?,m?trak?aya?,
+SR84,#NAME?,(a) svedav?ddhi?,
+SR85,#NAME?,(a) svedak?aya?,
+SR86,#NAME?,(a) s?mamala?,
+SR87,#NAME?,(b) Ati u??i?a n?r,
+SR88,#NAME?,(b) Miku c?ta?a n?r ni?am,
+SR89,#NAME?,(b) Mummala?ka?ai mikavum atikam?ka ke?ukkum n?r ni?am,
+SR8A,#NAME?,(c) Bawl Ghus?l?,
+SR8B,#NAME?,(c) Bu??’ Khur?j al-Bar?z,
+SR8C,#NAME?,(c) Al-Bar?z al-Y?bis,
+SR8D,#NAME?,(c) Ziy?da al-Bar?z,
+SR8E,#NAME?,(c) Al-‘Araq ??dd al-R?’i?a,
+SR8F,#NAME?,(c) Al-‘Araq ??mi? al-R??,
+SR8G,#NAME?,(c) Al-‘Araq al-Ghal??,
+SR8H,#NAME?,(c) Al-‘Araq al-Raq?q,
+SR8J,#NAME?,(c) Al-‘Araq al-Qal?l al-Miqd?r Deficient sweating (TM2),
+SR8K,#NAME?,(c) Al-Nafth al-Kath?r al-Miqd?r Excessive expectoration (TM2),
+SR8L,#NAME?,(c) Al-Nafth al-Qal?l al-Miqd?r Scanty expectoration (TM2),
+SR8M,#NAME?,(c) Al-Nafth al-Mu‘tadil al-Miqd?r,
+SR8N,#NAME?,Excessive sweating (TM2) (c) Ifr?? al-‘Araq,
+SR8Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SR8Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SS10,#NAME?,(a) agnivai?amyam,
+SS11,#NAME?,(a) vi?am?gni?,
+SS12,#NAME?,(a) t?k???gni?,
+SS13,#NAME?,"(a) mand?gni?, (a) agnis?da?",
+SS14,#NAME?,"(a) atyagni?, (a) bhasmaka?",
+SS15,#NAME?,(a) ?mado?a? (a) ?mavasth?,
+SS16,#NAME?,(b) Cam?kki?i,
+SS17,#NAME?,(b) T??a??kki?i,
+SS18,#NAME?,(b) Vi?am?kki?i,
+SS19,#NAME?,(b) Mant?kki?i,
+SS1Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SS1Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SS20,#NAME?,(b) M?ccai a?akkutal?l ??pa?um m??utalka?,
+SS21,#NAME?,(b) Ko???viyai a?akkutal (a) j?mbh?vegarodha?,
+SS22,#NAME?,(b) Paci ma??um t?katti?ai a?akkutal,
+SS23,#NAME?,(b) Cukkilattai a?akkutal (a) ?ukravegarodha?,
+SS24,#NAME?,(b) Irumalai a?akkutal,
+SS25,#NAME?,(b) Ci?un?rai a?akkutal (a) m?travegarodha?,
+SS26,#NAME?,(b) T?kkattai a?akkal (a) nidr?vegarodha?,
+SS27,#NAME?,(b) Tummalai a?akkutal (a) k?avathuvegarodha?,
+SS28,#NAME?,(b) Ka???rai a?akkutal (a) a?ruvegarodha?,
+SS29,#NAME?,(b) V?ntiyai a?akkutal (a) chardivegarodha?,
+SS2A,#NAME?,(b) Malatti?ai a?akkutal (a) pur??avegarodha?,
+SS2B,#NAME?,(a) ?rama?v?savegarodha?,
+SS2C,#NAME?,(a) k?udvegarodha?,
+SS2D,#NAME?,(a) t????vegarodha?,
+SS2E,#NAME?,(a) adhov?taveg?varodha?,
+SS2F,#NAME?,(b) V?yu?a? mukku??am nilaiya?ital,
+SS2G,#NAME?,(b) C?tattu?a? mukku??am nilaiya?ital,
+SS2H,#NAME?,(b) U??attu?a? mukku??am nilaiya?ital,
+SS2Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SS2Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SS30,#NAME?,(c) Khalal-i-Quw? ?ab?‘iyya,
+SS31,#NAME?,(c) Khalal-i-Quwwat Gh?dhiya,
+SS32,#NAME?,(c) Khalal-i-Quwwat Mu?a??ila,
+SS33,#NAME?,(c) Khalal-i-Quwwat Mula??iqa,
+SS34,#NAME?,(c) Khalal-i-Quwwat Mushabbiha,
+SS35,#NAME?,(c) Khalal-i-Quwwat J?dhiba,
+SS36,#NAME?,(c) Khalal-i-Quwwat M?sika,
+SS37,#NAME?,(c) Khalal-i-Quwwat H??ima,
+SS38,#NAME?,(c) Khalal-i-Quwwat D?fi‘a,
+SS39,#NAME?,(c) Khalal-i-Quwwat N?miya/Khalal-i-Quwwat Murabbiya,
+SS3A,#NAME?,(c) Khalal-i-Quw? Tan?suliyya,
+SS3B,#NAME?,(c) Khalal-i-Quwwat ?ayw?niyya,
+SS3C,#NAME?,(c) Khalal-i-Quw? Nafs?niyya,
+SS3D,#NAME?,(c) ?u‘f-i-A‘??',
+SS3E,#NAME?,(c) za'f-e harArat-e gharizi (c) ?u‘f-i-?ar?rat Ghar?z?,
+SS3F,#NAME?,(c) soqout-e harArat-e gharizi (c) Suq??-i-?ar?rat Ghar?z?,
+SS3G,#NAME?,(c) za'f-e rouh-e nafsAni (c) ?u‘f-i-R?? Nafs?n?,
+SS3H,#NAME?,(c) za'f-e rouh-e tabi'ei (c) ?u‘f-i-R?? ?ab?‘?,
+SS3J,#NAME?,(c) za'f-e rouh-e hayawAni (c) ?u‘f-i-R?? ?ayw?n?,
+SS3Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SS3Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SS4Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SS4Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+,#NAME?,,Skipped: Invalid or empty code
+SS50,#NAME?,(a) v?taprakr?ti?,
+SS51,#NAME?,(a) pittaprakr?ti?,
+SS52,#NAME?,(a) kaphaprakr?ti?,
+SS53,#NAME?,(a) v?tapittaprakr?ti?,
+SS54,#NAME?,(a) pittakaphaprakr?ti?,
+SS55,#NAME?,(a) kaphav?taprakr?ti?,
+SS56,#NAME?,"(a) trid??ajaprakr?ti?, (a) samaprakr?ti?",
+SS57,#NAME?,(b) Va?i u?alikka?am,
+SS58,#NAME?,(b) A?al u?alikka?am,
+SS59,#NAME?,(b) Aiyam u?alikka?am,
+SS5A,#NAME?,(b) Va?i A?al u?alikka?am,
+SS5B,#NAME?,(b) Va?i aiya u?alikka?am,
+SS5C,#NAME?,(b) A?alva?i u?alikka?am,
+SS5D,#NAME?,(b) A?alayam u?alikka?am,
+SS5E,#NAME?,(b) Aiya?al u?alikka?am,
+SS5F,#NAME?,(b) Aiyava?i u?alikka?am,
+SS5Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SS5Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SS60,#NAME?,Sattva predominant pattern (TM2) (a) s?ttvikak?ya (a) ?uddhak?ya,
+SS61,#NAME?,Rajas predominant pattern (TM2) (a) r?jasikak?ya,
+SS62,#NAME?,Tamas predominant pattern (TM2) (a) t?masikak?ya,
+SS6Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SS6Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SS70,#NAME?,(c) Miz?j Ins?n?,
+SS71,#NAME?,(c) Miz?j-i-A‘m?r,
+SS72,#NAME?,(c) Damaw? al-Miz?j Hot and moist temperament pattern (TM2) (c) Miz?j H??rr Ratb,
+SS73,- - - - - ?afr?’ predominant temperament pattern (TM2),(c) S?afr?w? al-Miz?j Hot and dry temperament pattern (TM2) (c) Miz?j H??rr Y?bis,
+SS74,#NAME?,(c) Balgham? al-Miz?j Cold and moist temperament pattern (TM2) (c) Miz?j B?rid Ratb,
+SS75,#NAME?,(c) Sawd?w? al-Miz?j Cold and dry temperament pattern (TM2) (c) Miz?j B?rid Y?bis,
+SS7Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SS7Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+SS80,#NAME?,(a) B?ly?vasth? (a) b?l?vasth?,
+SS81,#NAME?,(a) madhyam?vasth?,
+SS82,#NAME?,"(a) v?ddh?vasth? (a) sth?virya?, (a) v?rdhakya?",
+SS83,#NAME?,"(b) P?la? (b) K?ppu C??k?rai T?l???u Capp??i Muttam Varukai Ampuli Ci??il, (b) n?r??al Ci?upa?ai (b) amm??ai Ci?uter, (b) ?cal P?la?, (b) petai",
+SS84,#NAME?,"(b) m?l?i (b) p?tumpai ma?avo?, (b) ma?kai Ti?avo?, (b) ma?antai Vi?alai, (b) arivai K?l?ai (b) t?rivai mutumaka?, (b) peril?am p??",
+SS85,#NAME?,(b) Mutumaka? (b) p?ri?am pe?,
+SS86,#NAME?,"(c) Senn-e-Nomov, (c) Senn-e-?ad?that (c) Sinn-i-Num?, (c) Sinn-i-?ad?that",
+SS87,#NAME?,"(c) Senn-e-Shab?b, (c) Senn-e-Wuq?f (c) Sinn-i-Shab?b, (c) Sinn-i-Wuq?f",
+SS88,#NAME?,"(c) Senn-i-Koh?lat, (c) Senn-i-In?i??? (c) Sinn-i-Kuh?lat, (c) Sinn-i-In?i???",
+SS89,#NAME?,(c) Sinn-i-Shaykh?khat,
+SS8Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+SS8Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+ST00,#NAME?,(c) S?’-i-Miz?j Morbid temperament (TM2) Impaired temperament (TM2) Immoderate temperament (TM2),
+ST01,#NAME?,(c) S?’-i-Miz?j Mufrad,
+ST02,#NAME?,"(c) S?’-i-Miz?j Mufrad S?da, (c) Miz?j Ghayr Mu‘tadil Mufrad S?da (c) S?’-i-Miz?j S?deh Simple abnormal temperament pattern (TM2) (c) S?’-i-Miz?j S?da",
+ST03,#NAME?,(c) S?’-i-Miz?j ??rr,
+ST04,#NAME?,(c) S?’-i-Miz?j B?rid (c) S?’-i-Miz?j B?red,
+ST05,#NAME?,(c) S?’-i-Miz?j Ra?b,
+ST06,#NAME?,(c) S?’-i-Miz?j Y?bis,
+ST07,#NAME?,(c) S?’-i-Miz?j M?dd? Simple abnormal temperament with substance pattern (TM2) (c) S?’-i-Miz?j Mufrad M?dd?,
+ST08,#NAME?,(c) S?’-i-Miz?j ??rr M?dd?,
+ST09,#NAME?,(c) S?’-i-Miz?j B?rid M?dd?,
+ST0A,#NAME?,(c) S?’-i-Miz?j Ra?b M?dd?,
+ST0B,#NAME?,(c) S?’-i-Miz?j Y?bis M?dd?,
+ST0C,#NAME?,"(c) Miz?j Ghayr Mu‘tadil Murakkab, (c) S?’-i-Miz?j Murakkab",
+ST0D,#NAME?,"(c) S?’-i-Miz?j Murakkab S?da, (c) Miz?j Ghayr Mu‘tadil Murakkab S?da",
+ST0E,#NAME?,(c) S?’-i-Miz?j ??rr Ra?b S?da,
+ST0F,#NAME?,(c) S?’-i-Miz?j ??rr Y?bis S?da,
+ST0G,#NAME?,(c) S?’-i-Miz?j B?rid Ra?b S?da,
+ST0H,#NAME?,(c) S?’-i-Miz?j B?rid Y?bis S?da,
+ST0J,#NAME?,(c) S?’-i-Miz?j Murakkab M?dd?,
+ST0K,#NAME?,(c) S?’-i-Miz?j ??rr Ra?b M?dd?,
+ST0L,#NAME?,(c) S?’-i-Miz?j ??rr Y?bis M?dd?,
+ST0M,#NAME?,(c) S?’-i-Miz?j B?rid Ra?b M?dd?,
+ST0N,#NAME?,(c) S?’-i-Miz?j B?rid Y?bis M?dd?,
+ST0P,#NAME?,(c) S?’-i-Miz?j Mustaw? (c) S?’-i-Miz?j Mostaw?,
+ST0Q,#NAME?,(c) S?’-i-Miz?j Mukhtalif (c) S?’-i-Miz?j Mokhtalef,
+ST0R,#NAME?,(c) ghelzat-e rotoubat (c) Ghilz?a al-Ru??ba,
+ST0S,#NAME?,(c) rotoubat-e gharibeh (c) Ru??bat Ghar?ba,
+ST0T,#NAME?,(c) reqqat-e rotoubat (c) Riqqa al-Ru??ba,
+ST0U,#NAME?,(c) ofounat-e rotoubat (c) Uf?nat,
+ST0V,#NAME?,(c) tagheir-e mezAj-e rouh-e nafsAni (c) Taghayyur-i-Miz?j-i-R?? Nafs?n?,
+ST0W,#NAME?,(c) Ghalaba’-i-?ar?rat,
+ST0X,#NAME?,(c) Ghalaba’-i-Bur?dat,
+ST10,#NAME?,(c) Ghalaba’-i-Ru??bat,
+ST11,#NAME?,(c) Ghalaba’-i-Yub?sat,
+ST1Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+ST1Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
+,#NAME?,,Skipped: Invalid or empty code
+ST20,#NAME?,(a) marmaviddha? (b) Varma a?i,
+ST2Y,#NAME?,,Skipped: Invalid or missing entity ID in URL
+ST2Z,#NAME?,,Skipped: Invalid or missing entity ID in URL
